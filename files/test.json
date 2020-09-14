@@ -1,3 +1,156 @@
 {
-  "name": "Test"
+  "type": "PAGE_COMPONENT_TYPE",
+  "props": {
+    "componentName": "usr.form.Button",
+    "componentInstance": "nQqpFFA8N",
+    "isSelected": true
+  },
+  "index": 0,
+  "children": [
+    {
+      "type": "COMPONENT_PROPERTY_BOOL_TYPE",
+      "props": {
+        "propertyName": "autofocus",
+        "propertyComment": "\n This Boolean attribute specifies that the button should have input focus when the page loads.\n Only one element in a document can have this attribute.\n"
+      },
+      "index": 0
+    },
+    {
+      "type": "COMPONENT_PROPERTY_ARRAY_OF_TYPE",
+      "props": {
+        "propertyName": "children",
+        "propertyComment": "\n An array of the nested HTML elements.\n > If there is an element in the children property the text is not rendered.\n",
+        "defaultChildren": [
+          {
+            "type": "COMPONENT_PROPERTY_ELEMENT_TYPE",
+            "props": {
+              "componentName": "__PlaceHolder"
+            }
+          }
+        ]
+      },
+      "index": 1
+    },
+    {
+      "type": "COMPONENT_PROPERTY_BOOL_TYPE",
+      "props": {
+        "propertyName": "disabled",
+        "propertyComment": "\n This Boolean attribute prevents the user from interacting with the button: it cannot be pressed or focused.\n"
+      },
+      "index": 2
+    },
+    {
+      "type": "COMPONENT_PROPERTY_SHAPE_TYPE",
+      "props": {
+        "propertyName": "globalAttrs",
+        "propertyComment": "\n Global attributes are attributes common to all HTML elements;\n they can be used on all elements, though they may have no effect on some elements.\n",
+        "externalProperties": "usr.commons.Global.GlobalTypes"
+      },
+      "index": 3,
+      "children": [
+        {
+          "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+          "props": {
+            "propertyName": "tabindex",
+            "propertyComment": "\n An integer attribute indicating if the element can take input focus (is focusable),\n if it should participate to sequential keyboard navigation, and if so, at what position.\n"
+          },
+          "index": 0
+        },
+        {
+          "type": "COMPONENT_PROPERTY_STRING_TYPE",
+          "props": {
+            "propertyName": "title",
+            "propertyComment": "\n Contains a text representing advisory information related to the element it belongs to.\n Such information can typically, but not necessarily, be presented to the user as a tooltip.\n"
+          },
+          "index": 1
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_PROPERTY_STRING_TYPE",
+      "props": {
+        "propertyName": "name",
+        "propertyComment": "\n The name of the button, submitted as a pair with the button’s value as part of the form data.\n"
+      },
+      "index": 4
+    },
+    {
+      "type": "COMPONENT_PROPERTY_OBJECT_TYPE",
+      "props": {
+        "propertyName": "tailwindUtilities",
+        "propertyComment": "\n Tail Wind Classes `test`\n",
+        "propertyValue": {
+          "backgrounds": {
+            "backgroundColor": [
+              {
+                "a_class": "bg-red-500"
+              }
+            ]
+          },
+          "borders": {
+            "borderRadius": [
+              {
+                "a_class": "rounded"
+              }
+            ],
+            "borderWidth": [
+              {
+                "a_class": "border-2"
+              }
+            ],
+            "borderColor": [
+              {
+                "a_class": "border-gray-500"
+              }
+            ]
+          },
+          "spacing": {
+            "padding": [
+              {
+                "a_class": "p-1"
+              }
+            ]
+          }
+        }
+      },
+      "index": 5
+    },
+    {
+      "type": "COMPONENT_PROPERTY_STRING_TYPE",
+      "props": {
+        "propertyName": "text",
+        "propertyComment": "\n Text content value.\n > If there is an element in the children property the text is not rendered.\n",
+        "propertyValue": "Button"
+      },
+      "index": 6
+    },
+    {
+      "type": "COMPONENT_PROPERTY_ONE_OF_TYPE",
+      "props": {
+        "propertyName": "type",
+        "propertyComment": "\n The default behavior of the button. Possible values are:\n * submit: The button submits the form data to the server. This is the default if the attribute is not specified for buttons associated with a <form>, or if the attribute is an empty or invalid value.\n * button: The button has no default behavior, and does nothing when pressed by default. It can have client-side scripts listen to the element's events, which are triggered when the events occur.\n",
+        "propertyValue": "button",
+        "propertyValueVariants": [
+          {
+            "value": ""
+          },
+          {
+            "value": "button"
+          },
+          {
+            "value": "submit"
+          }
+        ]
+      },
+      "index": 7
+    },
+    {
+      "type": "COMPONENT_PROPERTY_STRING_TYPE",
+      "props": {
+        "propertyName": "value",
+        "propertyComment": "\n Defines the value associated with the button’s name when it’s submitted with the form data.\n This value is passed to the server in params when the form is submitted.\n"
+      },
+      "index": 8
+    }
+  ]
 }
