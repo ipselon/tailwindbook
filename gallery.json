@@ -1,6 +1,14 @@
 {
   "projectList": [
     {
+      "fileName": "login-form-1.json",
+      "keywords": [
+        "Generated",
+        "Form",
+        "Login"
+      ]
+    },
+    {
       "fileName": "tailwind-component-1.json",
       "keywords": [
         "Generated",
