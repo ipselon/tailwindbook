@@ -15,18 +15,18 @@
       ]
     },
     {
-      "fileName": "login-form-1.json",
+      "fileName": "examples/left-accent-alert.json",
       "keywords": [
-        "Generated",
-        "Form",
-        "Login"
+        "From examples",
+        "Alert"
       ]
     },
     {
-      "fileName": "tailwind-component-1.json",
+      "fileName": "examples/login-form-1.json",
       "keywords": [
-        "Generated",
-        "Probe"
+        "From examples",
+        "Form",
+        "Login"
       ]
     },
     {
