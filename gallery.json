@@ -1,6 +1,13 @@
 {
   "projectList": [
     {
+      "fileName": "examples/traditional-alert.json",
+      "keywords": [
+        "From examples",
+        "Alert"
+      ]
+    },
+    {
       "fileName": "login-form-1.json",
       "keywords": [
         "Generated",
