@@ -113,6 +113,20 @@
       ]
     },
     {
+      "fileName": "examples/horizontal-card.json",
+      "keywords": [
+        "From examples",
+        "Card"
+      ]
+    },
+    {
+      "fileName": "examples/stacked-card.json",
+      "keywords": [
+        "From examples",
+        "Card"
+      ]
+    },
+    {
       "fileName": "examples/login-form-1.json",
       "keywords": [
         "From examples",
