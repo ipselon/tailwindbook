@@ -1,1 +1,1399 @@
-{"type":"PAGE_COMPONENT_TYPE","props":{"componentName":"usr.section.Div","componentInstance":"JZqunTiXN","isSelected":true},"index":0,"children":[{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"backgroundImageUrl"},"index":0},{"type":"COMPONENT_PROPERTY_ARRAY_OF_TYPE","props":{"propertyName":"children","defaultChildren":[{"type":"COMPONENT_PROPERTY_ELEMENT_TYPE","props":{"componentName":"__PlaceHolder"}}]},"index":1,"children":[{"type":"PAGE_COMPONENT_TYPE","props":{"componentName":"usr.section.Div","componentInstance":"0_9InfUapg"},"index":0,"children":[{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"backgroundImageUrl","propertyValue":"https://tailwindcss.com/img/card-left.jpg"},"index":0},{"type":"COMPONENT_PROPERTY_ARRAY_OF_TYPE","props":{"propertyName":"children","defaultChildren":[{"type":"COMPONENT_PROPERTY_ELEMENT_TYPE","props":{"componentName":"__PlaceHolder"}}]},"index":1,"children":[{"type":"COMPONENT_PROPERTY_ELEMENT_TYPE","props":{"componentName":"__PlaceHolder"},"index":0}]},{"type":"COMPONENT_PROPERTY_SHAPE_TYPE","props":{"propertyName":"globalAttrs","externalProperties":"usr.commons.Global.GlobalTypes"},"index":2,"children":[{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"tabindex"},"index":0},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"title","propertyValue":"Woman holding a mug"},"index":1}]},{"type":"COMPONENT_PROPERTY_OBJECT_TYPE","props":{"propertyName":"tailwindUtilities","propertyValue":{"layout":{"overflow":[{"a_class":"overflow-hidden"}]},"flexbox":{"flex":[{"a_class":"flex-none"}]},"sizing":{"width":[{"b_responsive":"lg","a_class":"w-48"}],"height":[{"a_class":"h-48"},{"b_responsive":"lg","a_class":"h-auto"}]},"typography":{"textAlignment":[{"a_class":"text-center"}]},"backgrounds":{"backgroundSize":[{"a_class":"bg-cover"}]},"borders":{"borderRadius":[{"a_class":"rounded-t"},{"b_responsive":"lg","a_class":"rounded-t-none"},{"b_responsive":"lg","a_class":"rounded-l"}]}}},"index":3}]},{"type":"PAGE_COMPONENT_TYPE","props":{"componentName":"usr.section.Div","componentInstance":"EUD3oQx5e_"},"index":1,"children":[{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"backgroundImageUrl"},"index":0},{"type":"COMPONENT_PROPERTY_ARRAY_OF_TYPE","props":{"propertyName":"children","defaultChildren":[{"type":"COMPONENT_PROPERTY_ELEMENT_TYPE","props":{"componentName":"__PlaceHolder"}}]},"index":1,"children":[{"type":"PAGE_COMPONENT_TYPE","props":{"componentName":"usr.section.Div","componentInstance":"qB9J0ASaYv"},"index":0,"children":[{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"backgroundImageUrl"},"index":0},{"type":"COMPONENT_PROPERTY_ARRAY_OF_TYPE","props":{"propertyName":"children","defaultChildren":[{"type":"COMPONENT_PROPERTY_ELEMENT_TYPE","props":{"componentName":"__PlaceHolder"}}]},"index":1,"children":[{"type":"PAGE_COMPONENT_TYPE","props":{"componentName":"usr.text.P","componentInstance":"QO0v1QjKcL"},"index":0,"children":[{"type":"COMPONENT_PROPERTY_ARRAY_OF_TYPE","props":{"propertyName":"children","defaultChildren":[{"type":"COMPONENT_PROPERTY_ELEMENT_TYPE","props":{"componentName":"__PlaceHolder"}}]},"index":0,"children":[{"type":"PAGE_COMPONENT_TYPE","props":{"componentName":"usr.svg.Svg","componentInstance":"LQ5J6v41rQ"},"index":0,"children":[{"type":"COMPONENT_PROPERTY_ARRAY_OF_TYPE","props":{"propertyName":"children","defaultChildren":[{"type":"COMPONENT_PROPERTY_ELEMENT_TYPE","props":{"componentName":"__PlaceHolder"}}]},"index":0,"children":[{"type":"PAGE_COMPONENT_TYPE","props":{"componentName":"usr.svg.Path","componentInstance":"BNynvf8uFb"},"index":0,"children":[{"type":"COMPONENT_PROPERTY_ARRAY_OF_TYPE","props":{"propertyName":"children","defaultChildren":[{"type":"COMPONENT_PROPERTY_ELEMENT_TYPE","props":{"componentName":"__PlaceHolder"}}]},"index":0},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"d","propertyValue":"M4 8V6a6 6 0 1 1 12 0v2h1a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2v-8c0-1.1.9-2 2-2h1zm5 6.73V17h2v-2.27a2 2 0 1 0-2 0zM7 6v2h6V6a3 3 0 0 0-6 0z"},"index":1},{"type":"COMPONENT_PROPERTY_SHAPE_TYPE","props":{"propertyName":"globalAttrs","externalProperties":"usr.commons.Global.GlobalTypes"},"index":2,"children":[{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"tabindex"},"index":0},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"title"},"index":1}]},{"type":"COMPONENT_PROPERTY_OBJECT_TYPE","props":{"propertyName":"tailwindUtilities"},"index":3}]}]},{"type":"COMPONENT_PROPERTY_SHAPE_TYPE","props":{"propertyName":"globalAttrs","externalProperties":"usr.commons.Global.GlobalTypes"},"index":1,"children":[{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"tabindex"},"index":0},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"title"},"index":1}]},{"type":"COMPONENT_PROPERTY_OBJECT_TYPE","props":{"propertyName":"tailwindUtilities","propertyValue":{"spacing":{"marginRight":[{"a_class":"mr-2"}]},"sizing":{"width":[{"a_class":"w-3"}]},"typography":{"textColor":[{"a_class":"text-gray-500"}]},"svg":{"fill":[{"a_class":"fill-current"}]}}},"index":2},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"viewBox","propertyValue":"0 0 20 20"},"index":3}]},{"type":"PAGE_COMPONENT_TYPE","props":{"componentName":"usr.text.Span","componentInstance":"AM-VS9NPLw"},"index":1,"children":[{"type":"COMPONENT_PROPERTY_ARRAY_OF_TYPE","props":{"propertyName":"children","defaultChildren":[{"type":"COMPONENT_PROPERTY_ELEMENT_TYPE","props":{"componentName":"__PlaceHolder"}}]},"index":0},{"type":"COMPONENT_PROPERTY_SHAPE_TYPE","props":{"propertyName":"globalAttrs","externalProperties":"usr.commons.Global.GlobalTypes"},"index":1,"children":[{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"tabindex"},"index":0},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"title"},"index":1}]},{"type":"COMPONENT_PROPERTY_OBJECT_TYPE","props":{"propertyName":"tailwindUtilities"},"index":2},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"text","propertyValue":"Members only"},"index":3}]}]},{"type":"COMPONENT_PROPERTY_SHAPE_TYPE","props":{"propertyName":"globalAttrs","externalProperties":"usr.commons.Global.GlobalTypes"},"index":1,"children":[{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"tabindex"},"index":0},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"title"},"index":1}]},{"type":"COMPONENT_PROPERTY_OBJECT_TYPE","props":{"propertyName":"tailwindUtilities","propertyValue":{"layout":{"display":[{"a_class":"flex"}]},"flexbox":{"alignItems":[{"a_class":"items-center"}]},"typography":{"fontSize":[{"a_class":"text-sm"}],"textColor":[{"a_class":"text-gray-600"}]}}},"index":2},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"text","propertyValue":"Text here"},"index":3}]},{"type":"PAGE_COMPONENT_TYPE","props":{"componentName":"usr.section.Div","componentInstance":"zMMBr8pTnB"},"index":1,"children":[{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"backgroundImageUrl"},"index":0},{"type":"COMPONENT_PROPERTY_ARRAY_OF_TYPE","props":{"propertyName":"children","defaultChildren":[{"type":"COMPONENT_PROPERTY_ELEMENT_TYPE","props":{"componentName":"__PlaceHolder"}}]},"index":1,"children":[{"type":"PAGE_COMPONENT_TYPE","props":{"componentName":"usr.text.Span","componentInstance":"uG2aHF2ZdK"},"index":0,"children":[{"type":"COMPONENT_PROPERTY_ARRAY_OF_TYPE","props":{"propertyName":"children","defaultChildren":[{"type":"COMPONENT_PROPERTY_ELEMENT_TYPE","props":{"componentName":"__PlaceHolder"}}]},"index":0},{"type":"COMPONENT_PROPERTY_SHAPE_TYPE","props":{"propertyName":"globalAttrs","externalProperties":"usr.commons.Global.GlobalTypes"},"index":1,"children":[{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"tabindex"},"index":0},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"title"},"index":1}]},{"type":"COMPONENT_PROPERTY_OBJECT_TYPE","props":{"propertyName":"tailwindUtilities"},"index":2},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"text","propertyValue":"Can coffee make you a better developer?"},"index":3}]}]},{"type":"COMPONENT_PROPERTY_SHAPE_TYPE","props":{"propertyName":"globalAttrs","externalProperties":"usr.commons.Global.GlobalTypes"},"index":2,"children":[{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"tabindex"},"index":0},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"title"},"index":1}]},{"type":"COMPONENT_PROPERTY_OBJECT_TYPE","props":{"propertyName":"tailwindUtilities","propertyValue":{"spacing":{"marginBottom":[{"a_class":"mb-2"}]},"typography":{"fontSize":[{"a_class":"text-xl"}],"fontWeight":[{"a_class":"font-bold"}],"textColor":[{"a_class":"text-gray-900"}]}}},"index":3}]},{"type":"PAGE_COMPONENT_TYPE","props":{"componentName":"usr.text.P","componentInstance":"B-80U1dHLS"},"index":2,"children":[{"type":"COMPONENT_PROPERTY_ARRAY_OF_TYPE","props":{"propertyName":"children","defaultChildren":[{"type":"COMPONENT_PROPERTY_ELEMENT_TYPE","props":{"componentName":"__PlaceHolder"}}]},"index":0},{"type":"COMPONENT_PROPERTY_SHAPE_TYPE","props":{"propertyName":"globalAttrs","externalProperties":"usr.commons.Global.GlobalTypes"},"index":1,"children":[{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"tabindex"},"index":0},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"title"},"index":1}]},{"type":"COMPONENT_PROPERTY_OBJECT_TYPE","props":{"propertyName":"tailwindUtilities","propertyValue":{"typography":{"fontSize":[{"a_class":"text-base"}],"textColor":[{"a_class":"text-gray-700"}]}}},"index":2},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"text","propertyValue":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil."},"index":3}]}]},{"type":"COMPONENT_PROPERTY_SHAPE_TYPE","props":{"propertyName":"globalAttrs","externalProperties":"usr.commons.Global.GlobalTypes"},"index":2,"children":[{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"tabindex"},"index":0},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"title"},"index":1}]},{"type":"COMPONENT_PROPERTY_OBJECT_TYPE","props":{"propertyName":"tailwindUtilities","propertyValue":{"spacing":{"marginBottom":[{"a_class":"mb-8"}]}}},"index":3}]},{"type":"PAGE_COMPONENT_TYPE","props":{"componentName":"usr.section.Div","componentInstance":"cLYfEpwsh9"},"index":1,"children":[{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"backgroundImageUrl"},"index":0},{"type":"COMPONENT_PROPERTY_ARRAY_OF_TYPE","props":{"propertyName":"children","defaultChildren":[{"type":"COMPONENT_PROPERTY_ELEMENT_TYPE","props":{"componentName":"__PlaceHolder"}}]},"index":1,"children":[{"type":"PAGE_COMPONENT_TYPE","props":{"componentName":"usr.media.Img","componentInstance":"Wnkj38E-gk"},"index":0,"children":[{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"alt","propertyValue":"No Image"},"index":0},{"type":"COMPONENT_PROPERTY_SHAPE_TYPE","props":{"propertyName":"globalAttrs","externalProperties":"usr.commons.Global.GlobalTypes"},"index":1,"children":[{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"tabindex"},"index":0},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"title"},"index":1}]},{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"height"},"index":2},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"src","propertyValue":"https://tailwindcss.com/img/jonathan.jpg"},"index":3},{"type":"COMPONENT_PROPERTY_OBJECT_TYPE","props":{"propertyName":"tailwindUtilities","propertyValue":{"spacing":{"marginRight":[{"a_class":"mr-4"}]},"sizing":{"width":[{"a_class":"w-10"}],"height":[{"a_class":"h-10"}]},"borders":{"borderRadius":[{"a_class":"rounded-full"}]}}},"index":4},{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"width"},"index":5}]},{"type":"PAGE_COMPONENT_TYPE","props":{"componentName":"usr.section.Div","componentInstance":"sA12M023xp"},"index":1,"children":[{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"backgroundImageUrl"},"index":0},{"type":"COMPONENT_PROPERTY_ARRAY_OF_TYPE","props":{"propertyName":"children","defaultChildren":[{"type":"COMPONENT_PROPERTY_ELEMENT_TYPE","props":{"componentName":"__PlaceHolder"}}]},"index":1,"children":[{"type":"PAGE_COMPONENT_TYPE","props":{"componentName":"usr.text.P","componentInstance":"56x3I5Idih"},"index":0,"children":[{"type":"COMPONENT_PROPERTY_ARRAY_OF_TYPE","props":{"propertyName":"children","defaultChildren":[{"type":"COMPONENT_PROPERTY_ELEMENT_TYPE","props":{"componentName":"__PlaceHolder"}}]},"index":0},{"type":"COMPONENT_PROPERTY_SHAPE_TYPE","props":{"propertyName":"globalAttrs","externalProperties":"usr.commons.Global.GlobalTypes"},"index":1,"children":[{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"tabindex"},"index":0},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"title"},"index":1}]},{"type":"COMPONENT_PROPERTY_OBJECT_TYPE","props":{"propertyName":"tailwindUtilities","propertyValue":{"typography":{"lineHeight":[{"a_class":"leading-none"}],"textColor":[{"a_class":"text-gray-900"}]}}},"index":2},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"text","propertyValue":"Jonathan Reinink"},"index":3}]},{"type":"PAGE_COMPONENT_TYPE","props":{"componentName":"usr.text.P","componentInstance":"rgCU-1-tfg"},"index":1,"children":[{"type":"COMPONENT_PROPERTY_ARRAY_OF_TYPE","props":{"propertyName":"children","defaultChildren":[{"type":"COMPONENT_PROPERTY_ELEMENT_TYPE","props":{"componentName":"__PlaceHolder"}}]},"index":0},{"type":"COMPONENT_PROPERTY_SHAPE_TYPE","props":{"propertyName":"globalAttrs","externalProperties":"usr.commons.Global.GlobalTypes"},"index":1,"children":[{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"tabindex"},"index":0},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"title"},"index":1}]},{"type":"COMPONENT_PROPERTY_OBJECT_TYPE","props":{"propertyName":"tailwindUtilities","propertyValue":{"typography":{"textColor":[{"a_class":"text-gray-600"}]}}},"index":2},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"text","propertyValue":"Aug 18"},"index":3}]}]},{"type":"COMPONENT_PROPERTY_SHAPE_TYPE","props":{"propertyName":"globalAttrs","externalProperties":"usr.commons.Global.GlobalTypes"},"index":2,"children":[{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"tabindex"},"index":0},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"title"},"index":1}]},{"type":"COMPONENT_PROPERTY_OBJECT_TYPE","props":{"propertyName":"tailwindUtilities","propertyValue":{"typography":{"fontSize":[{"a_class":"text-sm"}]}}},"index":3}]}]},{"type":"COMPONENT_PROPERTY_SHAPE_TYPE","props":{"propertyName":"globalAttrs","externalProperties":"usr.commons.Global.GlobalTypes"},"index":2,"children":[{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"tabindex"},"index":0},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"title"},"index":1}]},{"type":"COMPONENT_PROPERTY_OBJECT_TYPE","props":{"propertyName":"tailwindUtilities","propertyValue":{"layout":{"display":[{"a_class":"flex"}]},"flexbox":{"alignItems":[{"a_class":"items-center"}]}}},"index":3}]}]},{"type":"COMPONENT_PROPERTY_SHAPE_TYPE","props":{"propertyName":"globalAttrs","externalProperties":"usr.commons.Global.GlobalTypes"},"index":2,"children":[{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"tabindex"},"index":0},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"title"},"index":1}]},{"type":"COMPONENT_PROPERTY_OBJECT_TYPE","props":{"propertyName":"tailwindUtilities","propertyValue":{"layout":{"display":[{"a_class":"flex"}]},"flexbox":{"flexDirection":[{"a_class":"flex-col"}],"justifyContent":[{"a_class":"justify-between"}]},"spacing":{"padding":[{"a_class":"p-4"}]},"typography":{"lineHeight":[{"a_class":"leading-normal"}]},"backgrounds":{"backgroundColor":[{"a_class":"bg-white"}]},"borders":{"borderRadius":[{"a_class":"rounded-b"},{"b_responsive":"lg","a_class":"rounded-b-none"},{"b_responsive":"lg","a_class":"rounded-r"}],"borderWidth":[{"a_class":"border-r"},{"a_class":"border-b"},{"a_class":"border-l"},{"b_responsive":"lg","a_class":"border-l-0"},{"b_responsive":"lg","a_class":"border-t"}],"borderColor":[{"a_class":"border-gray-400"},{"b_responsive":"lg","a_class":"border-gray-400"}]}}},"index":3}]}]},{"type":"COMPONENT_PROPERTY_SHAPE_TYPE","props":{"propertyName":"globalAttrs","externalProperties":"usr.commons.Global.GlobalTypes"},"index":2,"children":[{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"tabindex"},"index":0},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"title"},"index":1}]},{"type":"COMPONENT_PROPERTY_OBJECT_TYPE","props":{"propertyName":"tailwindUtilities","propertyValue":{"layout":{"display":[{"b_responsive":"lg","a_class":"flex"}]},"sizing":{"width":[{"a_class":"w-full"}],"maxWidth":[{"a_class":"max-w-sm"},{"b_responsive":"lg","a_class":"max-w-full"}]}}},"index":3}]}
+{
+  "type": "PAGE_COMPONENT_TYPE",
+  "props": {
+    "componentName": "usr.section.Div",
+    "componentInstance": "7ipJqj9-Z",
+    "isSelected": true
+  },
+  "index": 0,
+  "children": [
+    {
+      "type": "COMPONENT_PROPERTY_STRING_TYPE",
+      "props": {
+        "propertyName": "backgroundImageUrl"
+      },
+      "index": 0
+    },
+    {
+      "type": "COMPONENT_PROPERTY_ARRAY_OF_TYPE",
+      "props": {
+        "propertyName": "children",
+        "defaultChildren": [
+          {
+            "type": "COMPONENT_PROPERTY_ELEMENT_TYPE",
+            "props": {
+              "componentName": "__PlaceHolder"
+            }
+          }
+        ]
+      },
+      "index": 1,
+      "children": [
+        {
+          "type": "PAGE_COMPONENT_TYPE",
+          "props": {
+            "componentName": "usr.section.Div",
+            "componentInstance": "_NG8MvWmui"
+          },
+          "index": 0,
+          "children": [
+            {
+              "type": "COMPONENT_PROPERTY_STRING_TYPE",
+              "props": {
+                "propertyName": "backgroundImageUrl",
+                "propertyValue": "https://tailwindcss.com/img/card-left.jpg"
+              },
+              "index": 0
+            },
+            {
+              "type": "COMPONENT_PROPERTY_ARRAY_OF_TYPE",
+              "props": {
+                "propertyName": "children",
+                "defaultChildren": [
+                  {
+                    "type": "COMPONENT_PROPERTY_ELEMENT_TYPE",
+                    "props": {
+                      "componentName": "__PlaceHolder"
+                    }
+                  }
+                ]
+              },
+              "index": 1
+            },
+            {
+              "type": "COMPONENT_PROPERTY_SHAPE_TYPE",
+              "props": {
+                "propertyName": "globalAttrs",
+                "externalProperties": "usr.commons.Global.GlobalTypes"
+              },
+              "index": 2,
+              "children": [
+                {
+                  "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                  "props": {
+                    "propertyName": "tabindex"
+                  },
+                  "index": 0
+                },
+                {
+                  "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                  "props": {
+                    "propertyName": "title",
+                    "propertyValue": "Woman holding a mug"
+                  },
+                  "index": 1
+                }
+              ]
+            },
+            {
+              "type": "COMPONENT_PROPERTY_OBJECT_TYPE",
+              "props": {
+                "propertyName": "tailwindUtilities",
+                "propertyValue": {
+                  "layout": {
+                    "overflow": [
+                      {
+                        "a_class": "overflow-hidden"
+                      }
+                    ]
+                  },
+                  "flexbox": {
+                    "flex": [
+                      {
+                        "a_class": "flex-none"
+                      }
+                    ]
+                  },
+                  "sizing": {
+                    "width": [
+                      {
+                        "b_responsive": "lg",
+                        "a_class": "w-48"
+                      }
+                    ],
+                    "height": [
+                      {
+                        "a_class": "h-48"
+                      },
+                      {
+                        "b_responsive": "lg",
+                        "a_class": "h-auto"
+                      }
+                    ]
+                  },
+                  "typography": {
+                    "textAlignment": [
+                      {
+                        "a_class": "text-center"
+                      }
+                    ]
+                  },
+                  "backgrounds": {
+                    "backgroundSize": [
+                      {
+                        "a_class": "bg-cover"
+                      }
+                    ]
+                  },
+                  "borders": {
+                    "borderRadius": [
+                      {
+                        "a_class": "rounded-t"
+                      },
+                      {
+                        "b_responsive": "lg",
+                        "a_class": "rounded-t-none"
+                      },
+                      {
+                        "b_responsive": "lg",
+                        "a_class": "rounded-l"
+                      }
+                    ]
+                  }
+                }
+              },
+              "index": 3
+            }
+          ]
+        },
+        {
+          "type": "PAGE_COMPONENT_TYPE",
+          "props": {
+            "componentName": "usr.section.Div",
+            "componentInstance": "HLUYsupQVO"
+          },
+          "index": 1,
+          "children": [
+            {
+              "type": "COMPONENT_PROPERTY_STRING_TYPE",
+              "props": {
+                "propertyName": "backgroundImageUrl"
+              },
+              "index": 0
+            },
+            {
+              "type": "COMPONENT_PROPERTY_ARRAY_OF_TYPE",
+              "props": {
+                "propertyName": "children",
+                "defaultChildren": [
+                  {
+                    "type": "COMPONENT_PROPERTY_ELEMENT_TYPE",
+                    "props": {
+                      "componentName": "__PlaceHolder"
+                    }
+                  }
+                ]
+              },
+              "index": 1,
+              "children": [
+                {
+                  "type": "PAGE_COMPONENT_TYPE",
+                  "props": {
+                    "componentName": "usr.section.Div",
+                    "componentInstance": "o2cSqoV9gB"
+                  },
+                  "index": 0,
+                  "children": [
+                    {
+                      "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                      "props": {
+                        "propertyName": "backgroundImageUrl"
+                      },
+                      "index": 0
+                    },
+                    {
+                      "type": "COMPONENT_PROPERTY_ARRAY_OF_TYPE",
+                      "props": {
+                        "propertyName": "children",
+                        "defaultChildren": [
+                          {
+                            "type": "COMPONENT_PROPERTY_ELEMENT_TYPE",
+                            "props": {
+                              "componentName": "__PlaceHolder"
+                            }
+                          }
+                        ]
+                      },
+                      "index": 1,
+                      "children": [
+                        {
+                          "type": "PAGE_COMPONENT_TYPE",
+                          "props": {
+                            "componentName": "usr.text.P",
+                            "componentInstance": "-7tQqeShcm"
+                          },
+                          "index": 0,
+                          "children": [
+                            {
+                              "type": "COMPONENT_PROPERTY_ARRAY_OF_TYPE",
+                              "props": {
+                                "propertyName": "children",
+                                "defaultChildren": [
+                                  {
+                                    "type": "COMPONENT_PROPERTY_ELEMENT_TYPE",
+                                    "props": {
+                                      "componentName": "__PlaceHolder"
+                                    }
+                                  }
+                                ]
+                              },
+                              "index": 0,
+                              "children": [
+                                {
+                                  "type": "PAGE_COMPONENT_TYPE",
+                                  "props": {
+                                    "componentName": "usr.svg.Svg",
+                                    "componentInstance": "bHP6GNQfNS"
+                                  },
+                                  "index": 0,
+                                  "children": [
+                                    {
+                                      "type": "COMPONENT_PROPERTY_ARRAY_OF_TYPE",
+                                      "props": {
+                                        "propertyName": "children",
+                                        "defaultChildren": [
+                                          {
+                                            "type": "COMPONENT_PROPERTY_ELEMENT_TYPE",
+                                            "props": {
+                                              "componentName": "__PlaceHolder"
+                                            }
+                                          }
+                                        ]
+                                      },
+                                      "index": 0,
+                                      "children": [
+                                        {
+                                          "type": "PAGE_COMPONENT_TYPE",
+                                          "props": {
+                                            "componentName": "usr.svg.Path",
+                                            "componentInstance": "xDlL8sHizD"
+                                          },
+                                          "index": 0,
+                                          "children": [
+                                            {
+                                              "type": "COMPONENT_PROPERTY_ARRAY_OF_TYPE",
+                                              "props": {
+                                                "propertyName": "children",
+                                                "defaultChildren": [
+                                                  {
+                                                    "type": "COMPONENT_PROPERTY_ELEMENT_TYPE",
+                                                    "props": {
+                                                      "componentName": "__PlaceHolder"
+                                                    }
+                                                  }
+                                                ]
+                                              },
+                                              "index": 0
+                                            },
+                                            {
+                                              "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                                              "props": {
+                                                "propertyName": "d",
+                                                "propertyValue": "M4 8V6a6 6 0 1 1 12 0v2h1a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2v-8c0-1.1.9-2 2-2h1zm5 6.73V17h2v-2.27a2 2 0 1 0-2 0zM7 6v2h6V6a3 3 0 0 0-6 0z"
+                                              },
+                                              "index": 1
+                                            },
+                                            {
+                                              "type": "COMPONENT_PROPERTY_SHAPE_TYPE",
+                                              "props": {
+                                                "propertyName": "globalAttrs",
+                                                "externalProperties": "usr.commons.Global.GlobalTypes"
+                                              },
+                                              "index": 2,
+                                              "children": [
+                                                {
+                                                  "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                                                  "props": {
+                                                    "propertyName": "tabindex"
+                                                  },
+                                                  "index": 0
+                                                },
+                                                {
+                                                  "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                                                  "props": {
+                                                    "propertyName": "title"
+                                                  },
+                                                  "index": 1
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "type": "COMPONENT_PROPERTY_OBJECT_TYPE",
+                                              "props": {
+                                                "propertyName": "tailwindUtilities"
+                                              },
+                                              "index": 3
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "COMPONENT_PROPERTY_SHAPE_TYPE",
+                                      "props": {
+                                        "propertyName": "globalAttrs",
+                                        "externalProperties": "usr.commons.Global.GlobalTypes"
+                                      },
+                                      "index": 1,
+                                      "children": [
+                                        {
+                                          "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                                          "props": {
+                                            "propertyName": "tabindex"
+                                          },
+                                          "index": 0
+                                        },
+                                        {
+                                          "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                                          "props": {
+                                            "propertyName": "title"
+                                          },
+                                          "index": 1
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "COMPONENT_PROPERTY_OBJECT_TYPE",
+                                      "props": {
+                                        "propertyName": "tailwindUtilities",
+                                        "propertyValue": {
+                                          "spacing": {
+                                            "marginRight": [
+                                              {
+                                                "a_class": "mr-2"
+                                              }
+                                            ]
+                                          },
+                                          "sizing": {
+                                            "width": [
+                                              {
+                                                "a_class": "w-3"
+                                              }
+                                            ]
+                                          },
+                                          "typography": {
+                                            "textColor": [
+                                              {
+                                                "a_class": "text-gray-500"
+                                              }
+                                            ]
+                                          },
+                                          "svg": {
+                                            "fill": [
+                                              {
+                                                "a_class": "fill-current"
+                                              }
+                                            ]
+                                          }
+                                        }
+                                      },
+                                      "index": 2
+                                    },
+                                    {
+                                      "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                                      "props": {
+                                        "propertyName": "viewBox",
+                                        "propertyValue": "0 0 20 20"
+                                      },
+                                      "index": 3
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "PAGE_COMPONENT_TYPE",
+                                  "props": {
+                                    "componentName": "usr.text.Span",
+                                    "componentInstance": "UIeJClchGR"
+                                  },
+                                  "index": 1,
+                                  "children": [
+                                    {
+                                      "type": "COMPONENT_PROPERTY_ARRAY_OF_TYPE",
+                                      "props": {
+                                        "propertyName": "children",
+                                        "defaultChildren": [
+                                          {
+                                            "type": "COMPONENT_PROPERTY_ELEMENT_TYPE",
+                                            "props": {
+                                              "componentName": "__PlaceHolder"
+                                            }
+                                          }
+                                        ]
+                                      },
+                                      "index": 0
+                                    },
+                                    {
+                                      "type": "COMPONENT_PROPERTY_SHAPE_TYPE",
+                                      "props": {
+                                        "propertyName": "globalAttrs",
+                                        "externalProperties": "usr.commons.Global.GlobalTypes"
+                                      },
+                                      "index": 1,
+                                      "children": [
+                                        {
+                                          "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                                          "props": {
+                                            "propertyName": "tabindex"
+                                          },
+                                          "index": 0
+                                        },
+                                        {
+                                          "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                                          "props": {
+                                            "propertyName": "title"
+                                          },
+                                          "index": 1
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "COMPONENT_PROPERTY_OBJECT_TYPE",
+                                      "props": {
+                                        "propertyName": "tailwindUtilities"
+                                      },
+                                      "index": 2
+                                    },
+                                    {
+                                      "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                                      "props": {
+                                        "propertyName": "text",
+                                        "propertyValue": "Members only"
+                                      },
+                                      "index": 3
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_SHAPE_TYPE",
+                              "props": {
+                                "propertyName": "globalAttrs",
+                                "externalProperties": "usr.commons.Global.GlobalTypes"
+                              },
+                              "index": 1,
+                              "children": [
+                                {
+                                  "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                                  "props": {
+                                    "propertyName": "tabindex"
+                                  },
+                                  "index": 0
+                                },
+                                {
+                                  "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                                  "props": {
+                                    "propertyName": "title"
+                                  },
+                                  "index": 1
+                                }
+                              ]
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_OBJECT_TYPE",
+                              "props": {
+                                "propertyName": "tailwindUtilities",
+                                "propertyValue": {
+                                  "layout": {
+                                    "display": [
+                                      {
+                                        "a_class": "flex"
+                                      }
+                                    ]
+                                  },
+                                  "flexbox": {
+                                    "alignItems": [
+                                      {
+                                        "a_class": "items-center"
+                                      }
+                                    ]
+                                  },
+                                  "typography": {
+                                    "fontSize": [
+                                      {
+                                        "a_class": "text-sm"
+                                      }
+                                    ],
+                                    "textColor": [
+                                      {
+                                        "a_class": "text-gray-600"
+                                      }
+                                    ]
+                                  }
+                                }
+                              },
+                              "index": 2
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                              "props": {
+                                "propertyName": "text",
+                                "propertyValue": "Text here"
+                              },
+                              "index": 3
+                            }
+                          ]
+                        },
+                        {
+                          "type": "PAGE_COMPONENT_TYPE",
+                          "props": {
+                            "componentName": "usr.section.Div",
+                            "componentInstance": "_CkZJsnJ7-"
+                          },
+                          "index": 1,
+                          "children": [
+                            {
+                              "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                              "props": {
+                                "propertyName": "backgroundImageUrl"
+                              },
+                              "index": 0
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_ARRAY_OF_TYPE",
+                              "props": {
+                                "propertyName": "children",
+                                "defaultChildren": [
+                                  {
+                                    "type": "COMPONENT_PROPERTY_ELEMENT_TYPE",
+                                    "props": {
+                                      "componentName": "__PlaceHolder"
+                                    }
+                                  }
+                                ]
+                              },
+                              "index": 1,
+                              "children": [
+                                {
+                                  "type": "PAGE_COMPONENT_TYPE",
+                                  "props": {
+                                    "componentName": "usr.text.Span",
+                                    "componentInstance": "vxxo2efZxC"
+                                  },
+                                  "index": 0,
+                                  "children": [
+                                    {
+                                      "type": "COMPONENT_PROPERTY_ARRAY_OF_TYPE",
+                                      "props": {
+                                        "propertyName": "children",
+                                        "defaultChildren": [
+                                          {
+                                            "type": "COMPONENT_PROPERTY_ELEMENT_TYPE",
+                                            "props": {
+                                              "componentName": "__PlaceHolder"
+                                            }
+                                          }
+                                        ]
+                                      },
+                                      "index": 0
+                                    },
+                                    {
+                                      "type": "COMPONENT_PROPERTY_SHAPE_TYPE",
+                                      "props": {
+                                        "propertyName": "globalAttrs",
+                                        "externalProperties": "usr.commons.Global.GlobalTypes"
+                                      },
+                                      "index": 1,
+                                      "children": [
+                                        {
+                                          "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                                          "props": {
+                                            "propertyName": "tabindex"
+                                          },
+                                          "index": 0
+                                        },
+                                        {
+                                          "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                                          "props": {
+                                            "propertyName": "title"
+                                          },
+                                          "index": 1
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "COMPONENT_PROPERTY_OBJECT_TYPE",
+                                      "props": {
+                                        "propertyName": "tailwindUtilities"
+                                      },
+                                      "index": 2
+                                    },
+                                    {
+                                      "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                                      "props": {
+                                        "propertyName": "text",
+                                        "propertyValue": "Can coffee make you a better developer?"
+                                      },
+                                      "index": 3
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_SHAPE_TYPE",
+                              "props": {
+                                "propertyName": "globalAttrs",
+                                "externalProperties": "usr.commons.Global.GlobalTypes"
+                              },
+                              "index": 2,
+                              "children": [
+                                {
+                                  "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                                  "props": {
+                                    "propertyName": "tabindex"
+                                  },
+                                  "index": 0
+                                },
+                                {
+                                  "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                                  "props": {
+                                    "propertyName": "title"
+                                  },
+                                  "index": 1
+                                }
+                              ]
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_OBJECT_TYPE",
+                              "props": {
+                                "propertyName": "tailwindUtilities",
+                                "propertyValue": {
+                                  "spacing": {
+                                    "marginBottom": [
+                                      {
+                                        "a_class": "mb-2"
+                                      }
+                                    ]
+                                  },
+                                  "typography": {
+                                    "fontSize": [
+                                      {
+                                        "a_class": "text-xl"
+                                      }
+                                    ],
+                                    "fontWeight": [
+                                      {
+                                        "a_class": "font-bold"
+                                      }
+                                    ],
+                                    "textColor": [
+                                      {
+                                        "a_class": "text-gray-900"
+                                      }
+                                    ]
+                                  }
+                                }
+                              },
+                              "index": 3
+                            }
+                          ]
+                        },
+                        {
+                          "type": "PAGE_COMPONENT_TYPE",
+                          "props": {
+                            "componentName": "usr.text.P",
+                            "componentInstance": "PQmPbNBST1"
+                          },
+                          "index": 2,
+                          "children": [
+                            {
+                              "type": "COMPONENT_PROPERTY_ARRAY_OF_TYPE",
+                              "props": {
+                                "propertyName": "children",
+                                "defaultChildren": [
+                                  {
+                                    "type": "COMPONENT_PROPERTY_ELEMENT_TYPE",
+                                    "props": {
+                                      "componentName": "__PlaceHolder"
+                                    }
+                                  }
+                                ]
+                              },
+                              "index": 0
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_SHAPE_TYPE",
+                              "props": {
+                                "propertyName": "globalAttrs",
+                                "externalProperties": "usr.commons.Global.GlobalTypes"
+                              },
+                              "index": 1,
+                              "children": [
+                                {
+                                  "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                                  "props": {
+                                    "propertyName": "tabindex"
+                                  },
+                                  "index": 0
+                                },
+                                {
+                                  "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                                  "props": {
+                                    "propertyName": "title"
+                                  },
+                                  "index": 1
+                                }
+                              ]
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_OBJECT_TYPE",
+                              "props": {
+                                "propertyName": "tailwindUtilities",
+                                "propertyValue": {
+                                  "typography": {
+                                    "fontSize": [
+                                      {
+                                        "a_class": "text-base"
+                                      }
+                                    ],
+                                    "textColor": [
+                                      {
+                                        "a_class": "text-gray-700"
+                                      }
+                                    ]
+                                  }
+                                }
+                              },
+                              "index": 2
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                              "props": {
+                                "propertyName": "text",
+                                "propertyValue": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil."
+                              },
+                              "index": 3
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "COMPONENT_PROPERTY_SHAPE_TYPE",
+                      "props": {
+                        "propertyName": "globalAttrs",
+                        "externalProperties": "usr.commons.Global.GlobalTypes"
+                      },
+                      "index": 2,
+                      "children": [
+                        {
+                          "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                          "props": {
+                            "propertyName": "tabindex"
+                          },
+                          "index": 0
+                        },
+                        {
+                          "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                          "props": {
+                            "propertyName": "title"
+                          },
+                          "index": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "COMPONENT_PROPERTY_OBJECT_TYPE",
+                      "props": {
+                        "propertyName": "tailwindUtilities",
+                        "propertyValue": {
+                          "spacing": {
+                            "marginBottom": [
+                              {
+                                "a_class": "mb-8"
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      "index": 3
+                    }
+                  ]
+                },
+                {
+                  "type": "PAGE_COMPONENT_TYPE",
+                  "props": {
+                    "componentName": "usr.section.Div",
+                    "componentInstance": "woxXGAwtXb"
+                  },
+                  "index": 1,
+                  "children": [
+                    {
+                      "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                      "props": {
+                        "propertyName": "backgroundImageUrl"
+                      },
+                      "index": 0
+                    },
+                    {
+                      "type": "COMPONENT_PROPERTY_ARRAY_OF_TYPE",
+                      "props": {
+                        "propertyName": "children",
+                        "defaultChildren": [
+                          {
+                            "type": "COMPONENT_PROPERTY_ELEMENT_TYPE",
+                            "props": {
+                              "componentName": "__PlaceHolder"
+                            }
+                          }
+                        ]
+                      },
+                      "index": 1,
+                      "children": [
+                        {
+                          "type": "PAGE_COMPONENT_TYPE",
+                          "props": {
+                            "componentName": "usr.media.Img",
+                            "componentInstance": "ULgdw9VdwX"
+                          },
+                          "index": 0,
+                          "children": [
+                            {
+                              "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                              "props": {
+                                "propertyName": "alt",
+                                "propertyValue": "No Image"
+                              },
+                              "index": 0
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_SHAPE_TYPE",
+                              "props": {
+                                "propertyName": "globalAttrs",
+                                "externalProperties": "usr.commons.Global.GlobalTypes"
+                              },
+                              "index": 1,
+                              "children": [
+                                {
+                                  "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                                  "props": {
+                                    "propertyName": "tabindex"
+                                  },
+                                  "index": 0
+                                },
+                                {
+                                  "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                                  "props": {
+                                    "propertyName": "title"
+                                  },
+                                  "index": 1
+                                }
+                              ]
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                              "props": {
+                                "propertyName": "height"
+                              },
+                              "index": 2
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                              "props": {
+                                "propertyName": "src",
+                                "propertyValue": "https://tailwindcss.com/img/jonathan.jpg"
+                              },
+                              "index": 3
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_OBJECT_TYPE",
+                              "props": {
+                                "propertyName": "tailwindUtilities",
+                                "propertyValue": {
+                                  "spacing": {
+                                    "marginRight": [
+                                      {
+                                        "a_class": "mr-4"
+                                      }
+                                    ]
+                                  },
+                                  "sizing": {
+                                    "width": [
+                                      {
+                                        "a_class": "w-10"
+                                      }
+                                    ],
+                                    "height": [
+                                      {
+                                        "a_class": "h-10"
+                                      }
+                                    ]
+                                  },
+                                  "borders": {
+                                    "borderRadius": [
+                                      {
+                                        "a_class": "rounded-full"
+                                      }
+                                    ]
+                                  }
+                                }
+                              },
+                              "index": 4
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                              "props": {
+                                "propertyName": "width"
+                              },
+                              "index": 5
+                            }
+                          ]
+                        },
+                        {
+                          "type": "PAGE_COMPONENT_TYPE",
+                          "props": {
+                            "componentName": "usr.section.Div",
+                            "componentInstance": "5o3CyO14WZ"
+                          },
+                          "index": 1,
+                          "children": [
+                            {
+                              "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                              "props": {
+                                "propertyName": "backgroundImageUrl"
+                              },
+                              "index": 0
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_ARRAY_OF_TYPE",
+                              "props": {
+                                "propertyName": "children",
+                                "defaultChildren": [
+                                  {
+                                    "type": "COMPONENT_PROPERTY_ELEMENT_TYPE",
+                                    "props": {
+                                      "componentName": "__PlaceHolder"
+                                    }
+                                  }
+                                ]
+                              },
+                              "index": 1,
+                              "children": [
+                                {
+                                  "type": "PAGE_COMPONENT_TYPE",
+                                  "props": {
+                                    "componentName": "usr.text.P",
+                                    "componentInstance": "XfYXKjoOYU"
+                                  },
+                                  "index": 0,
+                                  "children": [
+                                    {
+                                      "type": "COMPONENT_PROPERTY_ARRAY_OF_TYPE",
+                                      "props": {
+                                        "propertyName": "children",
+                                        "defaultChildren": [
+                                          {
+                                            "type": "COMPONENT_PROPERTY_ELEMENT_TYPE",
+                                            "props": {
+                                              "componentName": "__PlaceHolder"
+                                            }
+                                          }
+                                        ]
+                                      },
+                                      "index": 0
+                                    },
+                                    {
+                                      "type": "COMPONENT_PROPERTY_SHAPE_TYPE",
+                                      "props": {
+                                        "propertyName": "globalAttrs",
+                                        "externalProperties": "usr.commons.Global.GlobalTypes"
+                                      },
+                                      "index": 1,
+                                      "children": [
+                                        {
+                                          "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                                          "props": {
+                                            "propertyName": "tabindex"
+                                          },
+                                          "index": 0
+                                        },
+                                        {
+                                          "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                                          "props": {
+                                            "propertyName": "title"
+                                          },
+                                          "index": 1
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "COMPONENT_PROPERTY_OBJECT_TYPE",
+                                      "props": {
+                                        "propertyName": "tailwindUtilities",
+                                        "propertyValue": {
+                                          "typography": {
+                                            "lineHeight": [
+                                              {
+                                                "a_class": "leading-none"
+                                              }
+                                            ],
+                                            "textColor": [
+                                              {
+                                                "a_class": "text-gray-900"
+                                              }
+                                            ]
+                                          }
+                                        }
+                                      },
+                                      "index": 2
+                                    },
+                                    {
+                                      "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                                      "props": {
+                                        "propertyName": "text",
+                                        "propertyValue": "Jonathan Reinink"
+                                      },
+                                      "index": 3
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "PAGE_COMPONENT_TYPE",
+                                  "props": {
+                                    "componentName": "usr.text.P",
+                                    "componentInstance": "6XRZAhoqKw"
+                                  },
+                                  "index": 1,
+                                  "children": [
+                                    {
+                                      "type": "COMPONENT_PROPERTY_ARRAY_OF_TYPE",
+                                      "props": {
+                                        "propertyName": "children",
+                                        "defaultChildren": [
+                                          {
+                                            "type": "COMPONENT_PROPERTY_ELEMENT_TYPE",
+                                            "props": {
+                                              "componentName": "__PlaceHolder"
+                                            }
+                                          }
+                                        ]
+                                      },
+                                      "index": 0
+                                    },
+                                    {
+                                      "type": "COMPONENT_PROPERTY_SHAPE_TYPE",
+                                      "props": {
+                                        "propertyName": "globalAttrs",
+                                        "externalProperties": "usr.commons.Global.GlobalTypes"
+                                      },
+                                      "index": 1,
+                                      "children": [
+                                        {
+                                          "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                                          "props": {
+                                            "propertyName": "tabindex"
+                                          },
+                                          "index": 0
+                                        },
+                                        {
+                                          "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                                          "props": {
+                                            "propertyName": "title"
+                                          },
+                                          "index": 1
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "COMPONENT_PROPERTY_OBJECT_TYPE",
+                                      "props": {
+                                        "propertyName": "tailwindUtilities",
+                                        "propertyValue": {
+                                          "typography": {
+                                            "textColor": [
+                                              {
+                                                "a_class": "text-gray-600"
+                                              }
+                                            ]
+                                          }
+                                        }
+                                      },
+                                      "index": 2
+                                    },
+                                    {
+                                      "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                                      "props": {
+                                        "propertyName": "text",
+                                        "propertyValue": "Aug 18"
+                                      },
+                                      "index": 3
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_SHAPE_TYPE",
+                              "props": {
+                                "propertyName": "globalAttrs",
+                                "externalProperties": "usr.commons.Global.GlobalTypes"
+                              },
+                              "index": 2,
+                              "children": [
+                                {
+                                  "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                                  "props": {
+                                    "propertyName": "tabindex"
+                                  },
+                                  "index": 0
+                                },
+                                {
+                                  "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                                  "props": {
+                                    "propertyName": "title"
+                                  },
+                                  "index": 1
+                                }
+                              ]
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_OBJECT_TYPE",
+                              "props": {
+                                "propertyName": "tailwindUtilities",
+                                "propertyValue": {
+                                  "typography": {
+                                    "fontSize": [
+                                      {
+                                        "a_class": "text-sm"
+                                      }
+                                    ]
+                                  }
+                                }
+                              },
+                              "index": 3
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "COMPONENT_PROPERTY_SHAPE_TYPE",
+                      "props": {
+                        "propertyName": "globalAttrs",
+                        "externalProperties": "usr.commons.Global.GlobalTypes"
+                      },
+                      "index": 2,
+                      "children": [
+                        {
+                          "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                          "props": {
+                            "propertyName": "tabindex"
+                          },
+                          "index": 0
+                        },
+                        {
+                          "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                          "props": {
+                            "propertyName": "title"
+                          },
+                          "index": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "COMPONENT_PROPERTY_OBJECT_TYPE",
+                      "props": {
+                        "propertyName": "tailwindUtilities",
+                        "propertyValue": {
+                          "layout": {
+                            "display": [
+                              {
+                                "a_class": "flex"
+                              }
+                            ]
+                          },
+                          "flexbox": {
+                            "alignItems": [
+                              {
+                                "a_class": "items-center"
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      "index": 3
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "COMPONENT_PROPERTY_SHAPE_TYPE",
+              "props": {
+                "propertyName": "globalAttrs",
+                "externalProperties": "usr.commons.Global.GlobalTypes"
+              },
+              "index": 2,
+              "children": [
+                {
+                  "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                  "props": {
+                    "propertyName": "tabindex"
+                  },
+                  "index": 0
+                },
+                {
+                  "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                  "props": {
+                    "propertyName": "title"
+                  },
+                  "index": 1
+                }
+              ]
+            },
+            {
+              "type": "COMPONENT_PROPERTY_OBJECT_TYPE",
+              "props": {
+                "propertyName": "tailwindUtilities",
+                "propertyValue": {
+                  "layout": {
+                    "display": [
+                      {
+                        "a_class": "flex"
+                      }
+                    ]
+                  },
+                  "flexbox": {
+                    "flexDirection": [
+                      {
+                        "a_class": "flex-col"
+                      }
+                    ],
+                    "justifyContent": [
+                      {
+                        "a_class": "justify-between"
+                      }
+                    ]
+                  },
+                  "spacing": {
+                    "padding": [
+                      {
+                        "a_class": "p-4"
+                      }
+                    ]
+                  },
+                  "typography": {
+                    "lineHeight": [
+                      {
+                        "a_class": "leading-normal"
+                      }
+                    ]
+                  },
+                  "backgrounds": {
+                    "backgroundColor": [
+                      {
+                        "a_class": "bg-white"
+                      }
+                    ]
+                  },
+                  "borders": {
+                    "borderRadius": [
+                      {
+                        "a_class": "rounded-b"
+                      },
+                      {
+                        "b_responsive": "lg",
+                        "a_class": "rounded-b-none"
+                      },
+                      {
+                        "b_responsive": "lg",
+                        "a_class": "rounded-r"
+                      }
+                    ],
+                    "borderWidth": [
+                      {
+                        "a_class": "border-r"
+                      },
+                      {
+                        "a_class": "border-b"
+                      },
+                      {
+                        "a_class": "border-l"
+                      },
+                      {
+                        "b_responsive": "lg",
+                        "a_class": "border-l-0"
+                      },
+                      {
+                        "b_responsive": "lg",
+                        "a_class": "border-t"
+                      }
+                    ],
+                    "borderColor": [
+                      {
+                        "a_class": "border-gray-400"
+                      },
+                      {
+                        "b_responsive": "lg",
+                        "a_class": "border-gray-400"
+                      }
+                    ]
+                  }
+                }
+              },
+              "index": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_PROPERTY_SHAPE_TYPE",
+      "props": {
+        "propertyName": "globalAttrs",
+        "externalProperties": "usr.commons.Global.GlobalTypes"
+      },
+      "index": 2,
+      "children": [
+        {
+          "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+          "props": {
+            "propertyName": "tabindex"
+          },
+          "index": 0
+        },
+        {
+          "type": "COMPONENT_PROPERTY_STRING_TYPE",
+          "props": {
+            "propertyName": "title"
+          },
+          "index": 1
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_PROPERTY_OBJECT_TYPE",
+      "props": {
+        "propertyName": "tailwindUtilities",
+        "propertyValue": {
+          "layout": {
+            "display": [
+              {
+                "b_responsive": "lg",
+                "a_class": "flex"
+              }
+            ]
+          },
+          "sizing": {
+            "width": [
+              {
+                "a_class": "w-full"
+              }
+            ],
+            "maxWidth": [
+              {
+                "a_class": "max-w-sm"
+              },
+              {
+                "b_responsive": "lg",
+                "a_class": "max-w-full"
+              }
+            ]
+          }
+        }
+      },
+      "index": 3
+    }
+  ]
+}
