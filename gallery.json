@@ -99,6 +99,20 @@
       ]
     },
     {
+      "fileName": "examples/grouped-buttons.json",
+      "keywords": [
+        "From examples",
+        "Button"
+      ]
+    },
+    {
+      "fileName": "examples/with-icon-button.json",
+      "keywords": [
+        "From examples",
+        "Button"
+      ]
+    },
+    {
       "fileName": "examples/login-form-1.json",
       "keywords": [
         "From examples",
