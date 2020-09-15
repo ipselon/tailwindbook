@@ -50,6 +50,55 @@
       ]
     },
     {
+      "fileName": "examples/bordered-button.json",
+      "keywords": [
+        "From examples",
+        "Button"
+      ]
+    },
+    {
+      "fileName": "examples/d3d-button.json",
+      "keywords": [
+        "From examples",
+        "Button"
+      ]
+    },
+    {
+      "fileName": "examples/disabled-button.json",
+      "keywords": [
+        "From examples",
+        "Button"
+      ]
+    },
+    {
+      "fileName": "examples/elevated-button.json",
+      "keywords": [
+        "From examples",
+        "Button"
+      ]
+    },
+    {
+      "fileName": "examples/outlined-button.json",
+      "keywords": [
+        "From examples",
+        "Button"
+      ]
+    },
+    {
+      "fileName": "examples/pill-button.json",
+      "keywords": [
+        "From examples",
+        "Button"
+      ]
+    },
+    {
+      "fileName": "examples/simple-button.json",
+      "keywords": [
+        "From examples",
+        "Button"
+      ]
+    },
+    {
       "fileName": "examples/login-form-1.json",
       "keywords": [
         "From examples",
