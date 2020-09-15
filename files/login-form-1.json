@@ -1,1 +1,1766 @@
-{"type":"PAGE_COMPONENT_TYPE","props":{"componentName":"usr.section.Div","componentInstance":"bTkfTDqtc","isSelected":true},"index":0,"children":[{"type":"COMPONENT_PROPERTY_ARRAY_OF_TYPE","props":{"propertyName":"children","defaultChildren":[{"type":"COMPONENT_PROPERTY_ELEMENT_TYPE","props":{"componentName":"__PlaceHolder"}}]},"index":0,"children":[{"type":"PAGE_COMPONENT_TYPE","props":{"componentName":"usr.form.Form","componentInstance":"2jzFeieAEh"},"index":0,"children":[{"type":"COMPONENT_PROPERTY_ARRAY_OF_TYPE","props":{"propertyName":"children","defaultChildren":[{"type":"COMPONENT_PROPERTY_ELEMENT_TYPE","props":{"componentName":"__PlaceHolder"}}]},"index":0,"children":[{"type":"PAGE_COMPONENT_TYPE","props":{"componentName":"usr.section.Div","componentInstance":"abfp_l0u8p"},"index":0,"children":[{"type":"COMPONENT_PROPERTY_ARRAY_OF_TYPE","props":{"propertyName":"children","defaultChildren":[{"type":"COMPONENT_PROPERTY_ELEMENT_TYPE","props":{"componentName":"__PlaceHolder"}}]},"index":0,"children":[{"type":"PAGE_COMPONENT_TYPE","props":{"componentName":"usr.form.Label","componentInstance":"xjIA8MQ2DM"},"index":0,"children":[{"type":"COMPONENT_PROPERTY_ARRAY_OF_TYPE","props":{"propertyName":"children","defaultChildren":[{"type":"COMPONENT_PROPERTY_ELEMENT_TYPE","props":{"componentName":"__PlaceHolder"}}]},"index":0},{"type":"COMPONENT_PROPERTY_SHAPE_TYPE","props":{"propertyName":"globalAttrs","externalProperties":"usr.commons.Global.GlobalTypes"},"index":1,"children":[{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"tabindex"},"index":0},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"title"},"index":1}]},{"type":"COMPONENT_PROPERTY_OBJECT_TYPE","props":{"propertyName":"tailwindUtilities","propertyValue":{"layout":{"display":[{"a_class":"block"}]},"spacing":{"marginBottom":[{"a_class":"mb-2"}]},"typography":{"fontSize":[{"a_class":"text-sm"}],"fontWeight":[{"a_class":"font-bold"}],"textColor":[{"a_class":"text-gray-700"}]}}},"index":2},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"text","propertyValue":"Username"},"index":3}]},{"type":"PAGE_COMPONENT_TYPE","props":{"componentName":"usr.form.Input","componentInstance":"wamXQ018sm"},"index":1,"children":[{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"accept"},"index":0},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"alt"},"index":1},{"type":"COMPONENT_PROPERTY_BOOL_TYPE","props":{"propertyName":"autocomplete"},"index":2},{"type":"COMPONENT_PROPERTY_BOOL_TYPE","props":{"propertyName":"autofocus"},"index":3},{"type":"COMPONENT_PROPERTY_BOOL_TYPE","props":{"propertyName":"checked"},"index":4},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"dirname"},"index":5},{"type":"COMPONENT_PROPERTY_BOOL_TYPE","props":{"propertyName":"disabled"},"index":6},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"form"},"index":7},{"type":"COMPONENT_PROPERTY_SHAPE_TYPE","props":{"propertyName":"globalAttrs","externalProperties":"usr.commons.Global.GlobalTypes"},"index":8,"children":[{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"tabindex"},"index":0},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"title"},"index":1}]},{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"max"},"index":9},{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"maxlength"},"index":10},{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"min"},"index":11},{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"minlength"},"index":12},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"name"},"index":13},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"pattern"},"index":14},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"placeholder","propertyValue":"Username"},"index":15},{"type":"COMPONENT_PROPERTY_BOOL_TYPE","props":{"propertyName":"readonly"},"index":16},{"type":"COMPONENT_PROPERTY_BOOL_TYPE","props":{"propertyName":"required"},"index":17},{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"size"},"index":18},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"src"},"index":19},{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"step"},"index":20},{"type":"COMPONENT_PROPERTY_OBJECT_TYPE","props":{"propertyName":"tailwindUtilities","propertyValue":{"spacing":{"paddingVertical":[{"a_class":"py-2"}],"paddingHorizontal":[{"a_class":"px-3"}]},"sizing":{"width":[{"a_class":"w-full"}]},"typography":{"lineHeight":[{"a_class":"leading-tight"}],"textColor":[{"a_class":"text-gray-700"}]},"borders":{"borderRadius":[{"a_class":"rounded"}],"borderWidth":[{"a_class":"border"}]},"effects":{"boxShadow":[{"a_class":"shadow"}]},"interactivity":{"appearance":[{"a_class":"appearance-none"}],"outline":[{"c_modifier":"focus","a_class":"outline-none"}]}}},"index":21},{"type":"COMPONENT_PROPERTY_ONE_OF_TYPE","props":{"propertyName":"type","propertyValue":"text","propertyValueVariants":[{"value":""},{"value":"button"},{"value":"checkbox"},{"value":"color"},{"value":"date"},{"value":"datetime-local"},{"value":"email"},{"value":"file"},{"value":"hidden"},{"value":"image"},{"value":"month"},{"value":"number"},{"value":"password"},{"value":"radio"},{"value":"range"},{"value":"reset"},{"value":"search"},{"value":"submit"},{"value":"tel"},{"value":"text"},{"value":"time"},{"value":"url"},{"value":"week"}]},"index":22},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"value"},"index":23}]}]},{"type":"COMPONENT_PROPERTY_SHAPE_TYPE","props":{"propertyName":"globalAttrs","externalProperties":"usr.commons.Global.GlobalTypes"},"index":1,"children":[{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"tabindex"},"index":0},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"title"},"index":1}]},{"type":"COMPONENT_PROPERTY_OBJECT_TYPE","props":{"propertyName":"tailwindUtilities","propertyValue":{"spacing":{"marginBottom":[{"a_class":"mb-4"}]}}},"index":2}]},{"type":"PAGE_COMPONENT_TYPE","props":{"componentName":"usr.section.Div","componentInstance":"yxWIGTe78Q"},"index":1,"children":[{"type":"COMPONENT_PROPERTY_ARRAY_OF_TYPE","props":{"propertyName":"children","defaultChildren":[{"type":"COMPONENT_PROPERTY_ELEMENT_TYPE","props":{"componentName":"__PlaceHolder"}}]},"index":0,"children":[{"type":"PAGE_COMPONENT_TYPE","props":{"componentName":"usr.form.Label","componentInstance":"wYzn6q7dhH"},"index":0,"children":[{"type":"COMPONENT_PROPERTY_ARRAY_OF_TYPE","props":{"propertyName":"children","defaultChildren":[{"type":"COMPONENT_PROPERTY_ELEMENT_TYPE","props":{"componentName":"__PlaceHolder"}}]},"index":0},{"type":"COMPONENT_PROPERTY_SHAPE_TYPE","props":{"propertyName":"globalAttrs","externalProperties":"usr.commons.Global.GlobalTypes"},"index":1,"children":[{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"tabindex"},"index":0},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"title"},"index":1}]},{"type":"COMPONENT_PROPERTY_OBJECT_TYPE","props":{"propertyName":"tailwindUtilities","propertyValue":{"layout":{"display":[{"a_class":"block"}]},"spacing":{"marginBottom":[{"a_class":"mb-2"}]},"typography":{"fontSize":[{"a_class":"text-sm"}],"fontWeight":[{"a_class":"font-bold"}],"textColor":[{"a_class":"text-gray-700"}]}}},"index":2},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"text","propertyValue":"Password\n"},"index":3}]},{"type":"PAGE_COMPONENT_TYPE","props":{"componentName":"usr.form.Input","componentInstance":"_ZluD2dRIk"},"index":1,"children":[{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"accept"},"index":0},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"alt"},"index":1},{"type":"COMPONENT_PROPERTY_BOOL_TYPE","props":{"propertyName":"autocomplete"},"index":2},{"type":"COMPONENT_PROPERTY_BOOL_TYPE","props":{"propertyName":"autofocus"},"index":3},{"type":"COMPONENT_PROPERTY_BOOL_TYPE","props":{"propertyName":"checked"},"index":4},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"dirname"},"index":5},{"type":"COMPONENT_PROPERTY_BOOL_TYPE","props":{"propertyName":"disabled"},"index":6},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"form"},"index":7},{"type":"COMPONENT_PROPERTY_SHAPE_TYPE","props":{"propertyName":"globalAttrs","externalProperties":"usr.commons.Global.GlobalTypes"},"index":8,"children":[{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"tabindex"},"index":0},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"title"},"index":1}]},{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"max"},"index":9},{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"maxlength"},"index":10},{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"min"},"index":11},{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"minlength"},"index":12},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"name"},"index":13},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"pattern"},"index":14},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"placeholder","propertyValue":"Password"},"index":15},{"type":"COMPONENT_PROPERTY_BOOL_TYPE","props":{"propertyName":"readonly"},"index":16},{"type":"COMPONENT_PROPERTY_BOOL_TYPE","props":{"propertyName":"required"},"index":17},{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"size"},"index":18},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"src"},"index":19},{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"step"},"index":20},{"type":"COMPONENT_PROPERTY_OBJECT_TYPE","props":{"propertyName":"tailwindUtilities","propertyValue":{"spacing":{"paddingVertical":[{"a_class":"py-2"}],"paddingHorizontal":[{"a_class":"px-3"}],"marginBottom":[{"a_class":"mb-3"}]},"sizing":{"width":[{"a_class":"w-full"}]},"typography":{"lineHeight":[{"a_class":"leading-tight"}],"textColor":[{"a_class":"text-gray-700"}]},"borders":{"borderRadius":[{"a_class":"rounded"}],"borderWidth":[{"a_class":"border"}],"borderColor":[{"a_class":"border-red-500"}]},"effects":{"boxShadow":[{"a_class":"shadow"},{"c_modifier":"focus","a_class":"shadow-outline"}]},"interactivity":{"appearance":[{"a_class":"appearance-none"}],"outline":[{"c_modifier":"focus","a_class":"outline-none"}]}}},"index":21},{"type":"COMPONENT_PROPERTY_ONE_OF_TYPE","props":{"propertyName":"type","propertyValue":"password","propertyValueVariants":[{"value":""},{"value":"button"},{"value":"checkbox"},{"value":"color"},{"value":"date"},{"value":"datetime-local"},{"value":"email"},{"value":"file"},{"value":"hidden"},{"value":"image"},{"value":"month"},{"value":"number"},{"value":"password"},{"value":"radio"},{"value":"range"},{"value":"reset"},{"value":"search"},{"value":"submit"},{"value":"tel"},{"value":"text"},{"value":"time"},{"value":"url"},{"value":"week"}]},"index":22},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"value"},"index":23}]},{"type":"PAGE_COMPONENT_TYPE","props":{"componentName":"usr.text.P","componentInstance":"As7XwtZYW7"},"index":2,"children":[{"type":"COMPONENT_PROPERTY_ARRAY_OF_TYPE","props":{"propertyName":"children","defaultChildren":[{"type":"COMPONENT_PROPERTY_ELEMENT_TYPE","props":{"componentName":"__PlaceHolder"}}]},"index":0},{"type":"COMPONENT_PROPERTY_SHAPE_TYPE","props":{"propertyName":"globalAttrs","externalProperties":"usr.commons.Global.GlobalTypes"},"index":1,"children":[{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"tabindex"},"index":0},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"title"},"index":1}]},{"type":"COMPONENT_PROPERTY_OBJECT_TYPE","props":{"propertyName":"tailwindUtilities","propertyValue":{"typography":{"fontSize":[{"a_class":"text-xs"}],"fontStyle":[{"a_class":"italic"}],"textColor":[{"a_class":"text-red-500"}]}}},"index":2},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"text","propertyValue":"Please choose a password."},"index":3}]}]},{"type":"COMPONENT_PROPERTY_SHAPE_TYPE","props":{"propertyName":"globalAttrs","externalProperties":"usr.commons.Global.GlobalTypes"},"index":1,"children":[{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"tabindex"},"index":0},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"title"},"index":1}]},{"type":"COMPONENT_PROPERTY_OBJECT_TYPE","props":{"propertyName":"tailwindUtilities","propertyValue":{"spacing":{"marginBottom":[{"a_class":"mb-6"}]}}},"index":2}]},{"type":"PAGE_COMPONENT_TYPE","props":{"componentName":"usr.section.Div","componentInstance":"6oKlbF2yR2"},"index":2,"children":[{"type":"COMPONENT_PROPERTY_ARRAY_OF_TYPE","props":{"propertyName":"children","defaultChildren":[{"type":"COMPONENT_PROPERTY_ELEMENT_TYPE","props":{"componentName":"__PlaceHolder"}}]},"index":0,"children":[{"type":"PAGE_COMPONENT_TYPE","props":{"componentName":"usr.form.Button","componentInstance":"F9Z6ggXVgw"},"index":0,"children":[{"type":"COMPONENT_PROPERTY_BOOL_TYPE","props":{"propertyName":"autofocus"},"index":0},{"type":"COMPONENT_PROPERTY_ARRAY_OF_TYPE","props":{"propertyName":"children","defaultChildren":[{"type":"COMPONENT_PROPERTY_ELEMENT_TYPE","props":{"componentName":"__PlaceHolder"}}]},"index":1},{"type":"COMPONENT_PROPERTY_BOOL_TYPE","props":{"propertyName":"disabled"},"index":2},{"type":"COMPONENT_PROPERTY_SHAPE_TYPE","props":{"propertyName":"globalAttrs","externalProperties":"usr.commons.Global.GlobalTypes"},"index":3,"children":[{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"tabindex"},"index":0},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"title"},"index":1}]},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"name"},"index":4},{"type":"COMPONENT_PROPERTY_OBJECT_TYPE","props":{"propertyName":"tailwindUtilities","propertyValue":{"spacing":{"paddingVertical":[{"a_class":"py-2"}],"paddingHorizontal":[{"a_class":"px-4"}]},"typography":{"fontWeight":[{"a_class":"font-bold"}],"textColor":[{"a_class":"text-white"}]},"backgrounds":{"backgroundColor":[{"a_class":"bg-blue-500"},{"c_modifier":"hover","a_class":"bg-blue-700"}]},"borders":{"borderRadius":[{"a_class":"rounded"}]},"effects":{"boxShadow":[{"c_modifier":"focus","a_class":"shadow-outline"}]},"interactivity":{"outline":[{"c_modifier":"focus","a_class":"outline-none"}]}}},"index":5},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"text","propertyValue":"Sign In\n"},"index":6},{"type":"COMPONENT_PROPERTY_ONE_OF_TYPE","props":{"propertyName":"type","propertyValue":"button","propertyValueVariants":[{"value":""},{"value":"button"},{"value":"submit"}]},"index":7},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"value"},"index":8}]},{"type":"PAGE_COMPONENT_TYPE","props":{"componentName":"usr.link.A","componentInstance":"UroB7JnXU9"},"index":1,"children":[{"type":"COMPONENT_PROPERTY_ARRAY_OF_TYPE","props":{"propertyName":"children","defaultChildren":[{"type":"COMPONENT_PROPERTY_ELEMENT_TYPE","props":{"componentName":"__PlaceHolder"}}]},"index":0},{"type":"COMPONENT_PROPERTY_BOOL_TYPE","props":{"propertyName":"download"},"index":1},{"type":"COMPONENT_PROPERTY_SHAPE_TYPE","props":{"propertyName":"globalAttrs","externalProperties":"usr.commons.Global.GlobalTypes"},"index":2,"children":[{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"tabindex"},"index":0},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"title"},"index":1}]},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"href","propertyValue":"#"},"index":3},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"hreflang"},"index":4},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"ping"},"index":5},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"rel"},"index":6},{"type":"COMPONENT_PROPERTY_OBJECT_TYPE","props":{"propertyName":"tailwindUtilities","propertyValue":{"layout":{"display":[{"a_class":"inline-block"}]},"typography":{"fontSize":[{"a_class":"text-sm"}],"fontWeight":[{"a_class":"font-bold"}],"textColor":[{"a_class":"text-blue-500"},{"c_modifier":"hover","a_class":"text-blue-800"}],"verticalAlignment":[{"a_class":"align-baseline"}]}}},"index":7},{"type":"COMPONENT_PROPERTY_ONE_OF_TYPE","props":{"propertyName":"target","propertyValueVariants":[{"value":""},{"value":"_self"},{"value":"_blank"},{"value":"_parent"},{"value":"_top"}]},"index":8},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"text","propertyValue":"Forgot Password?\n"},"index":9},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"type"},"index":10}]}]},{"type":"COMPONENT_PROPERTY_SHAPE_TYPE","props":{"propertyName":"globalAttrs","externalProperties":"usr.commons.Global.GlobalTypes"},"index":1,"children":[{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"tabindex"},"index":0},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"title"},"index":1}]},{"type":"COMPONENT_PROPERTY_OBJECT_TYPE","props":{"propertyName":"tailwindUtilities","propertyValue":{"layout":{"display":[{"a_class":"flex"}]},"flexbox":{"alignItems":[{"a_class":"items-center"}],"justifyContent":[{"a_class":"justify-between"}]}}},"index":2}]}]},{"type":"COMPONENT_PROPERTY_SHAPE_TYPE","props":{"propertyName":"globalAttrs","externalProperties":"usr.commons.Global.GlobalTypes"},"index":1,"children":[{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"tabindex"},"index":0},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"title"},"index":1}]},{"type":"COMPONENT_PROPERTY_OBJECT_TYPE","props":{"propertyName":"tailwindUtilities","propertyValue":{"spacing":{"paddingTop":[{"a_class":"pt-6"}],"paddingBottom":[{"a_class":"pb-8"}],"paddingHorizontal":[{"a_class":"px-8"}],"marginBottom":[{"a_class":"mb-4"}]},"backgrounds":{"backgroundColor":[{"a_class":"bg-white"}]},"borders":{"borderRadius":[{"a_class":"rounded"}]},"effects":{"boxShadow":[{"a_class":"shadow-md"}]}}},"index":2}]},{"type":"PAGE_COMPONENT_TYPE","props":{"componentName":"usr.text.P","componentInstance":"BRXWxdxF9G"},"index":1,"children":[{"type":"COMPONENT_PROPERTY_ARRAY_OF_TYPE","props":{"propertyName":"children","defaultChildren":[{"type":"COMPONENT_PROPERTY_ELEMENT_TYPE","props":{"componentName":"__PlaceHolder"}}]},"index":0},{"type":"COMPONENT_PROPERTY_SHAPE_TYPE","props":{"propertyName":"globalAttrs","externalProperties":"usr.commons.Global.GlobalTypes"},"index":1,"children":[{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"tabindex"},"index":0},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"title"},"index":1}]},{"type":"COMPONENT_PROPERTY_OBJECT_TYPE","props":{"propertyName":"tailwindUtilities","propertyValue":{"typography":{"fontSize":[{"a_class":"text-xs"}],"textAlignment":[{"a_class":"text-center"}],"textColor":[{"a_class":"text-gray-500"}]}}},"index":2},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"text","propertyValue":"2020 Acme Corp. All rights reserved."},"index":3}]}]},{"type":"COMPONENT_PROPERTY_SHAPE_TYPE","props":{"propertyName":"globalAttrs","externalProperties":"usr.commons.Global.GlobalTypes"},"index":1,"children":[{"type":"COMPONENT_PROPERTY_NUMBER_TYPE","props":{"propertyName":"tabindex"},"index":0},{"type":"COMPONENT_PROPERTY_STRING_TYPE","props":{"propertyName":"title"},"index":1}]},{"type":"COMPONENT_PROPERTY_OBJECT_TYPE","props":{"propertyName":"tailwindUtilities","propertyValue":{"sizing":{"width":[{"a_class":"w-full"}],"maxWidth":[{"a_class":"max-w-xs"}]}}},"index":2}]}
+{
+  "type": "PAGE_COMPONENT_TYPE",
+  "props": {
+    "componentName": "usr.section.Div",
+    "componentInstance": "bTkfTDqtc",
+    "isSelected": true
+  },
+  "index": 0,
+  "children": [
+    {
+      "type": "COMPONENT_PROPERTY_ARRAY_OF_TYPE",
+      "props": {
+        "propertyName": "children",
+        "defaultChildren": [
+          {
+            "type": "COMPONENT_PROPERTY_ELEMENT_TYPE",
+            "props": {
+              "componentName": "__PlaceHolder"
+            }
+          }
+        ]
+      },
+      "index": 0,
+      "children": [
+        {
+          "type": "PAGE_COMPONENT_TYPE",
+          "props": {
+            "componentName": "usr.form.Form",
+            "componentInstance": "2jzFeieAEh"
+          },
+          "index": 0,
+          "children": [
+            {
+              "type": "COMPONENT_PROPERTY_ARRAY_OF_TYPE",
+              "props": {
+                "propertyName": "children",
+                "defaultChildren": [
+                  {
+                    "type": "COMPONENT_PROPERTY_ELEMENT_TYPE",
+                    "props": {
+                      "componentName": "__PlaceHolder"
+                    }
+                  }
+                ]
+              },
+              "index": 0,
+              "children": [
+                {
+                  "type": "PAGE_COMPONENT_TYPE",
+                  "props": {
+                    "componentName": "usr.section.Div",
+                    "componentInstance": "abfp_l0u8p"
+                  },
+                  "index": 0,
+                  "children": [
+                    {
+                      "type": "COMPONENT_PROPERTY_ARRAY_OF_TYPE",
+                      "props": {
+                        "propertyName": "children",
+                        "defaultChildren": [
+                          {
+                            "type": "COMPONENT_PROPERTY_ELEMENT_TYPE",
+                            "props": {
+                              "componentName": "__PlaceHolder"
+                            }
+                          }
+                        ]
+                      },
+                      "index": 0,
+                      "children": [
+                        {
+                          "type": "PAGE_COMPONENT_TYPE",
+                          "props": {
+                            "componentName": "usr.form.Label",
+                            "componentInstance": "xjIA8MQ2DM"
+                          },
+                          "index": 0,
+                          "children": [
+                            {
+                              "type": "COMPONENT_PROPERTY_ARRAY_OF_TYPE",
+                              "props": {
+                                "propertyName": "children",
+                                "defaultChildren": [
+                                  {
+                                    "type": "COMPONENT_PROPERTY_ELEMENT_TYPE",
+                                    "props": {
+                                      "componentName": "__PlaceHolder"
+                                    }
+                                  }
+                                ]
+                              },
+                              "index": 0
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_SHAPE_TYPE",
+                              "props": {
+                                "propertyName": "globalAttrs",
+                                "externalProperties": "usr.commons.Global.GlobalTypes"
+                              },
+                              "index": 1,
+                              "children": [
+                                {
+                                  "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                                  "props": {
+                                    "propertyName": "tabindex"
+                                  },
+                                  "index": 0
+                                },
+                                {
+                                  "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                                  "props": {
+                                    "propertyName": "title"
+                                  },
+                                  "index": 1
+                                }
+                              ]
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_OBJECT_TYPE",
+                              "props": {
+                                "propertyName": "tailwindUtilities",
+                                "propertyValue": {
+                                  "layout": {
+                                    "display": [
+                                      {
+                                        "a_class": "block"
+                                      }
+                                    ]
+                                  },
+                                  "spacing": {
+                                    "marginBottom": [
+                                      {
+                                        "a_class": "mb-2"
+                                      }
+                                    ]
+                                  },
+                                  "typography": {
+                                    "fontSize": [
+                                      {
+                                        "a_class": "text-sm"
+                                      }
+                                    ],
+                                    "fontWeight": [
+                                      {
+                                        "a_class": "font-bold"
+                                      }
+                                    ],
+                                    "textColor": [
+                                      {
+                                        "a_class": "text-gray-700"
+                                      }
+                                    ]
+                                  }
+                                }
+                              },
+                              "index": 2
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                              "props": {
+                                "propertyName": "text",
+                                "propertyValue": "Username"
+                              },
+                              "index": 3
+                            }
+                          ]
+                        },
+                        {
+                          "type": "PAGE_COMPONENT_TYPE",
+                          "props": {
+                            "componentName": "usr.form.Input",
+                            "componentInstance": "wamXQ018sm"
+                          },
+                          "index": 1,
+                          "children": [
+                            {
+                              "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                              "props": {
+                                "propertyName": "accept"
+                              },
+                              "index": 0
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                              "props": {
+                                "propertyName": "alt"
+                              },
+                              "index": 1
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_BOOL_TYPE",
+                              "props": {
+                                "propertyName": "autocomplete"
+                              },
+                              "index": 2
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_BOOL_TYPE",
+                              "props": {
+                                "propertyName": "autofocus"
+                              },
+                              "index": 3
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_BOOL_TYPE",
+                              "props": {
+                                "propertyName": "checked"
+                              },
+                              "index": 4
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                              "props": {
+                                "propertyName": "dirname"
+                              },
+                              "index": 5
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_BOOL_TYPE",
+                              "props": {
+                                "propertyName": "disabled"
+                              },
+                              "index": 6
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                              "props": {
+                                "propertyName": "form"
+                              },
+                              "index": 7
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_SHAPE_TYPE",
+                              "props": {
+                                "propertyName": "globalAttrs",
+                                "externalProperties": "usr.commons.Global.GlobalTypes"
+                              },
+                              "index": 8,
+                              "children": [
+                                {
+                                  "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                                  "props": {
+                                    "propertyName": "tabindex"
+                                  },
+                                  "index": 0
+                                },
+                                {
+                                  "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                                  "props": {
+                                    "propertyName": "title"
+                                  },
+                                  "index": 1
+                                }
+                              ]
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                              "props": {
+                                "propertyName": "max"
+                              },
+                              "index": 9
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                              "props": {
+                                "propertyName": "maxlength"
+                              },
+                              "index": 10
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                              "props": {
+                                "propertyName": "min"
+                              },
+                              "index": 11
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                              "props": {
+                                "propertyName": "minlength"
+                              },
+                              "index": 12
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                              "props": {
+                                "propertyName": "name"
+                              },
+                              "index": 13
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                              "props": {
+                                "propertyName": "pattern"
+                              },
+                              "index": 14
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                              "props": {
+                                "propertyName": "placeholder",
+                                "propertyValue": "Username"
+                              },
+                              "index": 15
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_BOOL_TYPE",
+                              "props": {
+                                "propertyName": "readonly"
+                              },
+                              "index": 16
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_BOOL_TYPE",
+                              "props": {
+                                "propertyName": "required"
+                              },
+                              "index": 17
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                              "props": {
+                                "propertyName": "size"
+                              },
+                              "index": 18
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                              "props": {
+                                "propertyName": "src"
+                              },
+                              "index": 19
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                              "props": {
+                                "propertyName": "step"
+                              },
+                              "index": 20
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_OBJECT_TYPE",
+                              "props": {
+                                "propertyName": "tailwindUtilities",
+                                "propertyValue": {
+                                  "spacing": {
+                                    "paddingVertical": [
+                                      {
+                                        "a_class": "py-2"
+                                      }
+                                    ],
+                                    "paddingHorizontal": [
+                                      {
+                                        "a_class": "px-3"
+                                      }
+                                    ]
+                                  },
+                                  "sizing": {
+                                    "width": [
+                                      {
+                                        "a_class": "w-full"
+                                      }
+                                    ]
+                                  },
+                                  "typography": {
+                                    "lineHeight": [
+                                      {
+                                        "a_class": "leading-tight"
+                                      }
+                                    ],
+                                    "textColor": [
+                                      {
+                                        "a_class": "text-gray-700"
+                                      }
+                                    ]
+                                  },
+                                  "borders": {
+                                    "borderRadius": [
+                                      {
+                                        "a_class": "rounded"
+                                      }
+                                    ],
+                                    "borderWidth": [
+                                      {
+                                        "a_class": "border"
+                                      }
+                                    ]
+                                  },
+                                  "effects": {
+                                    "boxShadow": [
+                                      {
+                                        "a_class": "shadow"
+                                      }
+                                    ]
+                                  },
+                                  "interactivity": {
+                                    "appearance": [
+                                      {
+                                        "a_class": "appearance-none"
+                                      }
+                                    ],
+                                    "outline": [
+                                      {
+                                        "c_modifier": "focus",
+                                        "a_class": "outline-none"
+                                      }
+                                    ]
+                                  }
+                                }
+                              },
+                              "index": 21
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_ONE_OF_TYPE",
+                              "props": {
+                                "propertyName": "type",
+                                "propertyValue": "text",
+                                "propertyValueVariants": [
+                                  {
+                                    "value": ""
+                                  },
+                                  {
+                                    "value": "button"
+                                  },
+                                  {
+                                    "value": "checkbox"
+                                  },
+                                  {
+                                    "value": "color"
+                                  },
+                                  {
+                                    "value": "date"
+                                  },
+                                  {
+                                    "value": "datetime-local"
+                                  },
+                                  {
+                                    "value": "email"
+                                  },
+                                  {
+                                    "value": "file"
+                                  },
+                                  {
+                                    "value": "hidden"
+                                  },
+                                  {
+                                    "value": "image"
+                                  },
+                                  {
+                                    "value": "month"
+                                  },
+                                  {
+                                    "value": "number"
+                                  },
+                                  {
+                                    "value": "password"
+                                  },
+                                  {
+                                    "value": "radio"
+                                  },
+                                  {
+                                    "value": "range"
+                                  },
+                                  {
+                                    "value": "reset"
+                                  },
+                                  {
+                                    "value": "search"
+                                  },
+                                  {
+                                    "value": "submit"
+                                  },
+                                  {
+                                    "value": "tel"
+                                  },
+                                  {
+                                    "value": "text"
+                                  },
+                                  {
+                                    "value": "time"
+                                  },
+                                  {
+                                    "value": "url"
+                                  },
+                                  {
+                                    "value": "week"
+                                  }
+                                ]
+                              },
+                              "index": 22
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                              "props": {
+                                "propertyName": "value"
+                              },
+                              "index": 23
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "COMPONENT_PROPERTY_SHAPE_TYPE",
+                      "props": {
+                        "propertyName": "globalAttrs",
+                        "externalProperties": "usr.commons.Global.GlobalTypes"
+                      },
+                      "index": 1,
+                      "children": [
+                        {
+                          "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                          "props": {
+                            "propertyName": "tabindex"
+                          },
+                          "index": 0
+                        },
+                        {
+                          "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                          "props": {
+                            "propertyName": "title"
+                          },
+                          "index": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "COMPONENT_PROPERTY_OBJECT_TYPE",
+                      "props": {
+                        "propertyName": "tailwindUtilities",
+                        "propertyValue": {
+                          "spacing": {
+                            "marginBottom": [
+                              {
+                                "a_class": "mb-4"
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      "index": 2
+                    }
+                  ]
+                },
+                {
+                  "type": "PAGE_COMPONENT_TYPE",
+                  "props": {
+                    "componentName": "usr.section.Div",
+                    "componentInstance": "yxWIGTe78Q"
+                  },
+                  "index": 1,
+                  "children": [
+                    {
+                      "type": "COMPONENT_PROPERTY_ARRAY_OF_TYPE",
+                      "props": {
+                        "propertyName": "children",
+                        "defaultChildren": [
+                          {
+                            "type": "COMPONENT_PROPERTY_ELEMENT_TYPE",
+                            "props": {
+                              "componentName": "__PlaceHolder"
+                            }
+                          }
+                        ]
+                      },
+                      "index": 0,
+                      "children": [
+                        {
+                          "type": "PAGE_COMPONENT_TYPE",
+                          "props": {
+                            "componentName": "usr.form.Label",
+                            "componentInstance": "wYzn6q7dhH"
+                          },
+                          "index": 0,
+                          "children": [
+                            {
+                              "type": "COMPONENT_PROPERTY_ARRAY_OF_TYPE",
+                              "props": {
+                                "propertyName": "children",
+                                "defaultChildren": [
+                                  {
+                                    "type": "COMPONENT_PROPERTY_ELEMENT_TYPE",
+                                    "props": {
+                                      "componentName": "__PlaceHolder"
+                                    }
+                                  }
+                                ]
+                              },
+                              "index": 0
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_SHAPE_TYPE",
+                              "props": {
+                                "propertyName": "globalAttrs",
+                                "externalProperties": "usr.commons.Global.GlobalTypes"
+                              },
+                              "index": 1,
+                              "children": [
+                                {
+                                  "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                                  "props": {
+                                    "propertyName": "tabindex"
+                                  },
+                                  "index": 0
+                                },
+                                {
+                                  "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                                  "props": {
+                                    "propertyName": "title"
+                                  },
+                                  "index": 1
+                                }
+                              ]
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_OBJECT_TYPE",
+                              "props": {
+                                "propertyName": "tailwindUtilities",
+                                "propertyValue": {
+                                  "layout": {
+                                    "display": [
+                                      {
+                                        "a_class": "block"
+                                      }
+                                    ]
+                                  },
+                                  "spacing": {
+                                    "marginBottom": [
+                                      {
+                                        "a_class": "mb-2"
+                                      }
+                                    ]
+                                  },
+                                  "typography": {
+                                    "fontSize": [
+                                      {
+                                        "a_class": "text-sm"
+                                      }
+                                    ],
+                                    "fontWeight": [
+                                      {
+                                        "a_class": "font-bold"
+                                      }
+                                    ],
+                                    "textColor": [
+                                      {
+                                        "a_class": "text-gray-700"
+                                      }
+                                    ]
+                                  }
+                                }
+                              },
+                              "index": 2
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                              "props": {
+                                "propertyName": "text",
+                                "propertyValue": "Password\n"
+                              },
+                              "index": 3
+                            }
+                          ]
+                        },
+                        {
+                          "type": "PAGE_COMPONENT_TYPE",
+                          "props": {
+                            "componentName": "usr.form.Input",
+                            "componentInstance": "_ZluD2dRIk"
+                          },
+                          "index": 1,
+                          "children": [
+                            {
+                              "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                              "props": {
+                                "propertyName": "accept"
+                              },
+                              "index": 0
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                              "props": {
+                                "propertyName": "alt"
+                              },
+                              "index": 1
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_BOOL_TYPE",
+                              "props": {
+                                "propertyName": "autocomplete"
+                              },
+                              "index": 2
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_BOOL_TYPE",
+                              "props": {
+                                "propertyName": "autofocus"
+                              },
+                              "index": 3
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_BOOL_TYPE",
+                              "props": {
+                                "propertyName": "checked"
+                              },
+                              "index": 4
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                              "props": {
+                                "propertyName": "dirname"
+                              },
+                              "index": 5
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_BOOL_TYPE",
+                              "props": {
+                                "propertyName": "disabled"
+                              },
+                              "index": 6
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                              "props": {
+                                "propertyName": "form"
+                              },
+                              "index": 7
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_SHAPE_TYPE",
+                              "props": {
+                                "propertyName": "globalAttrs",
+                                "externalProperties": "usr.commons.Global.GlobalTypes"
+                              },
+                              "index": 8,
+                              "children": [
+                                {
+                                  "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                                  "props": {
+                                    "propertyName": "tabindex"
+                                  },
+                                  "index": 0
+                                },
+                                {
+                                  "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                                  "props": {
+                                    "propertyName": "title"
+                                  },
+                                  "index": 1
+                                }
+                              ]
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                              "props": {
+                                "propertyName": "max"
+                              },
+                              "index": 9
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                              "props": {
+                                "propertyName": "maxlength"
+                              },
+                              "index": 10
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                              "props": {
+                                "propertyName": "min"
+                              },
+                              "index": 11
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                              "props": {
+                                "propertyName": "minlength"
+                              },
+                              "index": 12
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                              "props": {
+                                "propertyName": "name"
+                              },
+                              "index": 13
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                              "props": {
+                                "propertyName": "pattern"
+                              },
+                              "index": 14
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                              "props": {
+                                "propertyName": "placeholder",
+                                "propertyValue": "Password"
+                              },
+                              "index": 15
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_BOOL_TYPE",
+                              "props": {
+                                "propertyName": "readonly"
+                              },
+                              "index": 16
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_BOOL_TYPE",
+                              "props": {
+                                "propertyName": "required"
+                              },
+                              "index": 17
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                              "props": {
+                                "propertyName": "size"
+                              },
+                              "index": 18
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                              "props": {
+                                "propertyName": "src"
+                              },
+                              "index": 19
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                              "props": {
+                                "propertyName": "step"
+                              },
+                              "index": 20
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_OBJECT_TYPE",
+                              "props": {
+                                "propertyName": "tailwindUtilities",
+                                "propertyValue": {
+                                  "spacing": {
+                                    "paddingVertical": [
+                                      {
+                                        "a_class": "py-2"
+                                      }
+                                    ],
+                                    "paddingHorizontal": [
+                                      {
+                                        "a_class": "px-3"
+                                      }
+                                    ],
+                                    "marginBottom": [
+                                      {
+                                        "a_class": "mb-3"
+                                      }
+                                    ]
+                                  },
+                                  "sizing": {
+                                    "width": [
+                                      {
+                                        "a_class": "w-full"
+                                      }
+                                    ]
+                                  },
+                                  "typography": {
+                                    "lineHeight": [
+                                      {
+                                        "a_class": "leading-tight"
+                                      }
+                                    ],
+                                    "textColor": [
+                                      {
+                                        "a_class": "text-gray-700"
+                                      }
+                                    ]
+                                  },
+                                  "borders": {
+                                    "borderRadius": [
+                                      {
+                                        "a_class": "rounded"
+                                      }
+                                    ],
+                                    "borderWidth": [
+                                      {
+                                        "a_class": "border"
+                                      }
+                                    ],
+                                    "borderColor": [
+                                      {
+                                        "a_class": "border-red-500"
+                                      }
+                                    ]
+                                  },
+                                  "effects": {
+                                    "boxShadow": [
+                                      {
+                                        "a_class": "shadow"
+                                      },
+                                      {
+                                        "c_modifier": "focus",
+                                        "a_class": "shadow-outline"
+                                      }
+                                    ]
+                                  },
+                                  "interactivity": {
+                                    "appearance": [
+                                      {
+                                        "a_class": "appearance-none"
+                                      }
+                                    ],
+                                    "outline": [
+                                      {
+                                        "c_modifier": "focus",
+                                        "a_class": "outline-none"
+                                      }
+                                    ]
+                                  }
+                                }
+                              },
+                              "index": 21
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_ONE_OF_TYPE",
+                              "props": {
+                                "propertyName": "type",
+                                "propertyValue": "password",
+                                "propertyValueVariants": [
+                                  {
+                                    "value": ""
+                                  },
+                                  {
+                                    "value": "button"
+                                  },
+                                  {
+                                    "value": "checkbox"
+                                  },
+                                  {
+                                    "value": "color"
+                                  },
+                                  {
+                                    "value": "date"
+                                  },
+                                  {
+                                    "value": "datetime-local"
+                                  },
+                                  {
+                                    "value": "email"
+                                  },
+                                  {
+                                    "value": "file"
+                                  },
+                                  {
+                                    "value": "hidden"
+                                  },
+                                  {
+                                    "value": "image"
+                                  },
+                                  {
+                                    "value": "month"
+                                  },
+                                  {
+                                    "value": "number"
+                                  },
+                                  {
+                                    "value": "password"
+                                  },
+                                  {
+                                    "value": "radio"
+                                  },
+                                  {
+                                    "value": "range"
+                                  },
+                                  {
+                                    "value": "reset"
+                                  },
+                                  {
+                                    "value": "search"
+                                  },
+                                  {
+                                    "value": "submit"
+                                  },
+                                  {
+                                    "value": "tel"
+                                  },
+                                  {
+                                    "value": "text"
+                                  },
+                                  {
+                                    "value": "time"
+                                  },
+                                  {
+                                    "value": "url"
+                                  },
+                                  {
+                                    "value": "week"
+                                  }
+                                ]
+                              },
+                              "index": 22
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                              "props": {
+                                "propertyName": "value"
+                              },
+                              "index": 23
+                            }
+                          ]
+                        },
+                        {
+                          "type": "PAGE_COMPONENT_TYPE",
+                          "props": {
+                            "componentName": "usr.text.P",
+                            "componentInstance": "As7XwtZYW7"
+                          },
+                          "index": 2,
+                          "children": [
+                            {
+                              "type": "COMPONENT_PROPERTY_ARRAY_OF_TYPE",
+                              "props": {
+                                "propertyName": "children",
+                                "defaultChildren": [
+                                  {
+                                    "type": "COMPONENT_PROPERTY_ELEMENT_TYPE",
+                                    "props": {
+                                      "componentName": "__PlaceHolder"
+                                    }
+                                  }
+                                ]
+                              },
+                              "index": 0
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_SHAPE_TYPE",
+                              "props": {
+                                "propertyName": "globalAttrs",
+                                "externalProperties": "usr.commons.Global.GlobalTypes"
+                              },
+                              "index": 1,
+                              "children": [
+                                {
+                                  "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                                  "props": {
+                                    "propertyName": "tabindex"
+                                  },
+                                  "index": 0
+                                },
+                                {
+                                  "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                                  "props": {
+                                    "propertyName": "title"
+                                  },
+                                  "index": 1
+                                }
+                              ]
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_OBJECT_TYPE",
+                              "props": {
+                                "propertyName": "tailwindUtilities",
+                                "propertyValue": {
+                                  "typography": {
+                                    "fontSize": [
+                                      {
+                                        "a_class": "text-xs"
+                                      }
+                                    ],
+                                    "fontStyle": [
+                                      {
+                                        "a_class": "italic"
+                                      }
+                                    ],
+                                    "textColor": [
+                                      {
+                                        "a_class": "text-red-500"
+                                      }
+                                    ]
+                                  }
+                                }
+                              },
+                              "index": 2
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                              "props": {
+                                "propertyName": "text",
+                                "propertyValue": "Please choose a password."
+                              },
+                              "index": 3
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "COMPONENT_PROPERTY_SHAPE_TYPE",
+                      "props": {
+                        "propertyName": "globalAttrs",
+                        "externalProperties": "usr.commons.Global.GlobalTypes"
+                      },
+                      "index": 1,
+                      "children": [
+                        {
+                          "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                          "props": {
+                            "propertyName": "tabindex"
+                          },
+                          "index": 0
+                        },
+                        {
+                          "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                          "props": {
+                            "propertyName": "title"
+                          },
+                          "index": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "COMPONENT_PROPERTY_OBJECT_TYPE",
+                      "props": {
+                        "propertyName": "tailwindUtilities",
+                        "propertyValue": {
+                          "spacing": {
+                            "marginBottom": [
+                              {
+                                "a_class": "mb-6"
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      "index": 2
+                    }
+                  ]
+                },
+                {
+                  "type": "PAGE_COMPONENT_TYPE",
+                  "props": {
+                    "componentName": "usr.section.Div",
+                    "componentInstance": "6oKlbF2yR2"
+                  },
+                  "index": 2,
+                  "children": [
+                    {
+                      "type": "COMPONENT_PROPERTY_ARRAY_OF_TYPE",
+                      "props": {
+                        "propertyName": "children",
+                        "defaultChildren": [
+                          {
+                            "type": "COMPONENT_PROPERTY_ELEMENT_TYPE",
+                            "props": {
+                              "componentName": "__PlaceHolder"
+                            }
+                          }
+                        ]
+                      },
+                      "index": 0,
+                      "children": [
+                        {
+                          "type": "PAGE_COMPONENT_TYPE",
+                          "props": {
+                            "componentName": "usr.form.Button",
+                            "componentInstance": "F9Z6ggXVgw"
+                          },
+                          "index": 0,
+                          "children": [
+                            {
+                              "type": "COMPONENT_PROPERTY_BOOL_TYPE",
+                              "props": {
+                                "propertyName": "autofocus"
+                              },
+                              "index": 0
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_ARRAY_OF_TYPE",
+                              "props": {
+                                "propertyName": "children",
+                                "defaultChildren": [
+                                  {
+                                    "type": "COMPONENT_PROPERTY_ELEMENT_TYPE",
+                                    "props": {
+                                      "componentName": "__PlaceHolder"
+                                    }
+                                  }
+                                ]
+                              },
+                              "index": 1
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_BOOL_TYPE",
+                              "props": {
+                                "propertyName": "disabled"
+                              },
+                              "index": 2
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_SHAPE_TYPE",
+                              "props": {
+                                "propertyName": "globalAttrs",
+                                "externalProperties": "usr.commons.Global.GlobalTypes"
+                              },
+                              "index": 3,
+                              "children": [
+                                {
+                                  "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                                  "props": {
+                                    "propertyName": "tabindex"
+                                  },
+                                  "index": 0
+                                },
+                                {
+                                  "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                                  "props": {
+                                    "propertyName": "title"
+                                  },
+                                  "index": 1
+                                }
+                              ]
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                              "props": {
+                                "propertyName": "name"
+                              },
+                              "index": 4
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_OBJECT_TYPE",
+                              "props": {
+                                "propertyName": "tailwindUtilities",
+                                "propertyValue": {
+                                  "spacing": {
+                                    "paddingVertical": [
+                                      {
+                                        "a_class": "py-2"
+                                      }
+                                    ],
+                                    "paddingHorizontal": [
+                                      {
+                                        "a_class": "px-4"
+                                      }
+                                    ]
+                                  },
+                                  "typography": {
+                                    "fontWeight": [
+                                      {
+                                        "a_class": "font-bold"
+                                      }
+                                    ],
+                                    "textColor": [
+                                      {
+                                        "a_class": "text-white"
+                                      }
+                                    ]
+                                  },
+                                  "backgrounds": {
+                                    "backgroundColor": [
+                                      {
+                                        "a_class": "bg-blue-500"
+                                      },
+                                      {
+                                        "c_modifier": "hover",
+                                        "a_class": "bg-blue-700"
+                                      }
+                                    ]
+                                  },
+                                  "borders": {
+                                    "borderRadius": [
+                                      {
+                                        "a_class": "rounded"
+                                      }
+                                    ]
+                                  },
+                                  "effects": {
+                                    "boxShadow": [
+                                      {
+                                        "c_modifier": "focus",
+                                        "a_class": "shadow-outline"
+                                      }
+                                    ]
+                                  },
+                                  "interactivity": {
+                                    "outline": [
+                                      {
+                                        "c_modifier": "focus",
+                                        "a_class": "outline-none"
+                                      }
+                                    ]
+                                  }
+                                }
+                              },
+                              "index": 5
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                              "props": {
+                                "propertyName": "text",
+                                "propertyValue": "Sign In\n"
+                              },
+                              "index": 6
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_ONE_OF_TYPE",
+                              "props": {
+                                "propertyName": "type",
+                                "propertyValue": "button",
+                                "propertyValueVariants": [
+                                  {
+                                    "value": ""
+                                  },
+                                  {
+                                    "value": "button"
+                                  },
+                                  {
+                                    "value": "submit"
+                                  }
+                                ]
+                              },
+                              "index": 7
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                              "props": {
+                                "propertyName": "value"
+                              },
+                              "index": 8
+                            }
+                          ]
+                        },
+                        {
+                          "type": "PAGE_COMPONENT_TYPE",
+                          "props": {
+                            "componentName": "usr.link.A",
+                            "componentInstance": "UroB7JnXU9"
+                          },
+                          "index": 1,
+                          "children": [
+                            {
+                              "type": "COMPONENT_PROPERTY_ARRAY_OF_TYPE",
+                              "props": {
+                                "propertyName": "children",
+                                "defaultChildren": [
+                                  {
+                                    "type": "COMPONENT_PROPERTY_ELEMENT_TYPE",
+                                    "props": {
+                                      "componentName": "__PlaceHolder"
+                                    }
+                                  }
+                                ]
+                              },
+                              "index": 0
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_BOOL_TYPE",
+                              "props": {
+                                "propertyName": "download"
+                              },
+                              "index": 1
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_SHAPE_TYPE",
+                              "props": {
+                                "propertyName": "globalAttrs",
+                                "externalProperties": "usr.commons.Global.GlobalTypes"
+                              },
+                              "index": 2,
+                              "children": [
+                                {
+                                  "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                                  "props": {
+                                    "propertyName": "tabindex"
+                                  },
+                                  "index": 0
+                                },
+                                {
+                                  "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                                  "props": {
+                                    "propertyName": "title"
+                                  },
+                                  "index": 1
+                                }
+                              ]
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                              "props": {
+                                "propertyName": "href",
+                                "propertyValue": "#"
+                              },
+                              "index": 3
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                              "props": {
+                                "propertyName": "hreflang"
+                              },
+                              "index": 4
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                              "props": {
+                                "propertyName": "ping"
+                              },
+                              "index": 5
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                              "props": {
+                                "propertyName": "rel"
+                              },
+                              "index": 6
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_OBJECT_TYPE",
+                              "props": {
+                                "propertyName": "tailwindUtilities",
+                                "propertyValue": {
+                                  "layout": {
+                                    "display": [
+                                      {
+                                        "a_class": "inline-block"
+                                      }
+                                    ]
+                                  },
+                                  "typography": {
+                                    "fontSize": [
+                                      {
+                                        "a_class": "text-sm"
+                                      }
+                                    ],
+                                    "fontWeight": [
+                                      {
+                                        "a_class": "font-bold"
+                                      }
+                                    ],
+                                    "textColor": [
+                                      {
+                                        "a_class": "text-blue-500"
+                                      },
+                                      {
+                                        "c_modifier": "hover",
+                                        "a_class": "text-blue-800"
+                                      }
+                                    ],
+                                    "verticalAlignment": [
+                                      {
+                                        "a_class": "align-baseline"
+                                      }
+                                    ]
+                                  }
+                                }
+                              },
+                              "index": 7
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_ONE_OF_TYPE",
+                              "props": {
+                                "propertyName": "target",
+                                "propertyValueVariants": [
+                                  {
+                                    "value": ""
+                                  },
+                                  {
+                                    "value": "_self"
+                                  },
+                                  {
+                                    "value": "_blank"
+                                  },
+                                  {
+                                    "value": "_parent"
+                                  },
+                                  {
+                                    "value": "_top"
+                                  }
+                                ]
+                              },
+                              "index": 8
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                              "props": {
+                                "propertyName": "text",
+                                "propertyValue": "Forgot Password?\n"
+                              },
+                              "index": 9
+                            },
+                            {
+                              "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                              "props": {
+                                "propertyName": "type"
+                              },
+                              "index": 10
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "COMPONENT_PROPERTY_SHAPE_TYPE",
+                      "props": {
+                        "propertyName": "globalAttrs",
+                        "externalProperties": "usr.commons.Global.GlobalTypes"
+                      },
+                      "index": 1,
+                      "children": [
+                        {
+                          "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                          "props": {
+                            "propertyName": "tabindex"
+                          },
+                          "index": 0
+                        },
+                        {
+                          "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                          "props": {
+                            "propertyName": "title"
+                          },
+                          "index": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "COMPONENT_PROPERTY_OBJECT_TYPE",
+                      "props": {
+                        "propertyName": "tailwindUtilities",
+                        "propertyValue": {
+                          "layout": {
+                            "display": [
+                              {
+                                "a_class": "flex"
+                              }
+                            ]
+                          },
+                          "flexbox": {
+                            "alignItems": [
+                              {
+                                "a_class": "items-center"
+                              }
+                            ],
+                            "justifyContent": [
+                              {
+                                "a_class": "justify-between"
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      "index": 2
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "COMPONENT_PROPERTY_SHAPE_TYPE",
+              "props": {
+                "propertyName": "globalAttrs",
+                "externalProperties": "usr.commons.Global.GlobalTypes"
+              },
+              "index": 1,
+              "children": [
+                {
+                  "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                  "props": {
+                    "propertyName": "tabindex"
+                  },
+                  "index": 0
+                },
+                {
+                  "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                  "props": {
+                    "propertyName": "title"
+                  },
+                  "index": 1
+                }
+              ]
+            },
+            {
+              "type": "COMPONENT_PROPERTY_OBJECT_TYPE",
+              "props": {
+                "propertyName": "tailwindUtilities",
+                "propertyValue": {
+                  "spacing": {
+                    "paddingTop": [
+                      {
+                        "a_class": "pt-6"
+                      }
+                    ],
+                    "paddingBottom": [
+                      {
+                        "a_class": "pb-8"
+                      }
+                    ],
+                    "paddingHorizontal": [
+                      {
+                        "a_class": "px-8"
+                      }
+                    ],
+                    "marginBottom": [
+                      {
+                        "a_class": "mb-4"
+                      }
+                    ]
+                  },
+                  "backgrounds": {
+                    "backgroundColor": [
+                      {
+                        "a_class": "bg-white"
+                      }
+                    ]
+                  },
+                  "borders": {
+                    "borderRadius": [
+                      {
+                        "a_class": "rounded"
+                      }
+                    ]
+                  },
+                  "effects": {
+                    "boxShadow": [
+                      {
+                        "a_class": "shadow-md"
+                      }
+                    ]
+                  }
+                }
+              },
+              "index": 2
+            }
+          ]
+        },
+        {
+          "type": "PAGE_COMPONENT_TYPE",
+          "props": {
+            "componentName": "usr.text.P",
+            "componentInstance": "BRXWxdxF9G"
+          },
+          "index": 1,
+          "children": [
+            {
+              "type": "COMPONENT_PROPERTY_ARRAY_OF_TYPE",
+              "props": {
+                "propertyName": "children",
+                "defaultChildren": [
+                  {
+                    "type": "COMPONENT_PROPERTY_ELEMENT_TYPE",
+                    "props": {
+                      "componentName": "__PlaceHolder"
+                    }
+                  }
+                ]
+              },
+              "index": 0
+            },
+            {
+              "type": "COMPONENT_PROPERTY_SHAPE_TYPE",
+              "props": {
+                "propertyName": "globalAttrs",
+                "externalProperties": "usr.commons.Global.GlobalTypes"
+              },
+              "index": 1,
+              "children": [
+                {
+                  "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+                  "props": {
+                    "propertyName": "tabindex"
+                  },
+                  "index": 0
+                },
+                {
+                  "type": "COMPONENT_PROPERTY_STRING_TYPE",
+                  "props": {
+                    "propertyName": "title"
+                  },
+                  "index": 1
+                }
+              ]
+            },
+            {
+              "type": "COMPONENT_PROPERTY_OBJECT_TYPE",
+              "props": {
+                "propertyName": "tailwindUtilities",
+                "propertyValue": {
+                  "typography": {
+                    "fontSize": [
+                      {
+                        "a_class": "text-xs"
+                      }
+                    ],
+                    "textAlignment": [
+                      {
+                        "a_class": "text-center"
+                      }
+                    ],
+                    "textColor": [
+                      {
+                        "a_class": "text-gray-500"
+                      }
+                    ]
+                  }
+                }
+              },
+              "index": 2
+            },
+            {
+              "type": "COMPONENT_PROPERTY_STRING_TYPE",
+              "props": {
+                "propertyName": "text",
+                "propertyValue": "2020 Acme Corp. All rights reserved."
+              },
+              "index": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_PROPERTY_SHAPE_TYPE",
+      "props": {
+        "propertyName": "globalAttrs",
+        "externalProperties": "usr.commons.Global.GlobalTypes"
+      },
+      "index": 1,
+      "children": [
+        {
+          "type": "COMPONENT_PROPERTY_NUMBER_TYPE",
+          "props": {
+            "propertyName": "tabindex"
+          },
+          "index": 0
+        },
+        {
+          "type": "COMPONENT_PROPERTY_STRING_TYPE",
+          "props": {
+            "propertyName": "title"
+          },
+          "index": 1
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_PROPERTY_OBJECT_TYPE",
+      "props": {
+        "propertyName": "tailwindUtilities",
+        "propertyValue": {
+          "sizing": {
+            "width": [
+              {
+                "a_class": "w-full"
+              }
+            ],
+            "maxWidth": [
+              {
+                "a_class": "max-w-xs"
+              }
+            ]
+          }
+        }
+      },
+      "index": 2
+    }
+  ]
+}
